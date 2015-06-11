@@ -62,6 +62,7 @@ Contributors:
 * [Computer Vision: Algorithms and Applications by Szeliski] (http://szeliski.org/Book/)
 * [OpenCV] (opencv.org/)
 * [OpenCVSharp, a C# Wrapper for OpenCV] (https://github.com/shimat/opencvsharp)
+* [EE4212 Computer Vision](https://courses.nus.edu.sg/course/eleclf/ee4212/)
 
 
 ### Information Retrieval
@@ -97,8 +98,13 @@ Contributors:
 * **ST2334 Probability and Statistics**
 * [One whole long pdf of notes] (http://www.stat.nus.edu.sg/~staja/st2334/notes_st2334.pdf)
 * **ST2132 Mathematical Statistics** 
+* [Textbook: Mathematical Analysis and Statistics by John Rice](ftp://nozdr.ru/biblioteka/kolxo3/M_Mathematics/MV_Probability/MVsa_Statistics%20and%20applications/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3ed.,%20Duxbury,%202006)(ISBN%200534399428)(O)(685s)_MVsa_.pdf)
+* **ST2137 Computer Aided Data Analysis** 
+* [AY2013/2014 Course Webpage](http://www.stat.nus.edu.sg/~zhangjt/teaching/ST2137/ST2137.htm)
+
+
 * **PC1221 Fundamentals of Physics** 
-** [College Physics by Serway] (http://www.amazon.com/College-Physics-Edition-Raymond-Serway/dp/0840062060)
+* [College Physics by Serway] (http://www.amazon.com/College-Physics-Edition-Raymond-Serway/dp/0840062060)
 
 ### Other fun stuff 
 * GEK1505 Living With Mathematics
