@@ -14,14 +14,66 @@ Contributors:
 * [SoC Course Catalogue] (https://www.comp.nus.edu.sg/undergraduates/useful_course_schedule.html)
 
 ### Programme Requirements
-* **CS2100 Computer Organisation** 
-* [AY2014/2015 Website by Aaron Tan](http://www.comp.nus.edu.sg/~cs2100/)
+##### Learning C
 * **CS1010 Programming Methodology** 
 * [Website for AY2015/2016] (http://www.comp.nus.edu.sg/~cs1010/)
-* **CS1020 & CS2010 Data Structures and Algorithms** 
+* **Learning C in Chinese**
+* [Course from Peking University] (https://www.coursera.org/course/spc)
+
+##### Learning C++
+* **CS1020E & CS2010E**
+* **Learning C++ in Chinese**
+* [Course from Peking University] (https://www.coursera.org/course/spcpp)
+* **Learning C++ in English**
+* [Course from UC Santa Cruz] (https://www.coursera.org/course/cplusplus4c)
+* **Self-learning C++ website**
+* [learncpp] (http://www.learncpp.com/)
+* **C/C++ References**
+* [cppreference] (http://www.cplusplus.com/reference/)
+
+##### Learning C#
+* **Learning C# in English**
+* [Course from University of Colorado] (https://www.coursera.org/course/gameprogramming)
+* [Course from Microsoft Experts] (https://www.edx.org/course/programming-c-microsoft-dev204x-0)
+* [Quick guide] (http://www.tutorialspoint.com/csharp/csharp_quick_guide.htm)
+
+##### Learning Python
+* **Learning Python in English**
+* [Course from MIT] (https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0)
+* [Course from University of Texas] (https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0)
+* [Course from University of Michigan] (https://www.coursera.org/course/pythonlearn)
+* **Python References**
+* [Official Documents] (https://www.python.org/doc/)
+
+##### Learning PHP
+* **Some tutorials**
+* [W5Schools Tutorial] (http://www.w3schools.com/php/)
+* [Interactive PHP] (http://www.learn-php.org/)
+* **PHP References**
+* [Official References] (http://php.net/manual/en/langref.php)
+
+##### Learning Java And Algorithms
+* **CS1020 & CS2010 Data Structures and Algorithms**
 * [Website for AY 2013/14] (http://www.comp.nus.edu.sg/~cs1020/)
+* **Learning Java in Chinese**
+* [Course from Peking University] (https://www.coursera.org/course/pkujava)
+* **Learning more about algorithms**
 * [Visualgo.Net] (http://visualgo.net)
 * [Algorithms from Princeton] (http://algs4.cs.princeton.edu/home/)
+
+##### Learning Web Development Basics
+* **CP3101B Web Programming and Applications**
+* [2015 Course Webpage] (http://www.comp.nus.edu.sg/~stevenha/cp3101b.html)
+* **Learning about web applications from other source**
+* [Course from The University of New Mexico] (https://www.coursera.org/course/webapplications)
+
+##### Office 365 APIs
+* **Learning Office 365 APIs in English**
+* [Course from Microsoft Experts] (https://www.edx.org/course/introduction-office-365-apis-microsoft-cld201x-0)
+
+##### Learning other basics
+* **CS2100 Computer Organisation** 
+* [AY2014/2015 Website by Aaron Tan](http://www.comp.nus.edu.sg/~cs2100/)
 * **CS2106 Introduction to Operating Systems**
 * [2011 Course Page by Prof Ooi Wei Tsang](http://blog.nus.edu.sg/cs2106/about/)
 * [2014/15 Course Page by Lubomir](http://www.comp.nus.edu.sg/~lubomir/)
@@ -31,7 +83,10 @@ Contributors:
 * **CS3230 Design and Analysis of Algorithms** 
 * [The 2010 Version] (http://www.comp.nus.edu.sg/~sanjay/cs3230.html)
 * [MIT Introduction to Algorithms Book. Also the textbook used in CS3230.] (http://syedwaqarahmad.webs.com/documents/t._cormen_-_introduction_to_algorithms_3rd_edition.pdf)
+* [MIT Similar Course] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
 * **CS3233 Competitive Programming [A version of the text]** (http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
+* **Recommend Steven Halim's Competitive Programming Textbook**
+* [Competitive Programming Facebook Page] (https://www.facebook.com/competitive.programming?fref=ts)
 
 ### Artificial Intelligence 
 * **CS3243 Introduction to Artificial Intelligence**
@@ -88,8 +143,6 @@ Contributors:
 * [Java Coding Conventions] (http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
 * [C++ Coding Conventions by Google] (https://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
 
-### Programming Languages 
-* :O
 
 ### Mathematics & Physics 
 * **MA1101R Linear Algebra I** 
@@ -110,7 +163,5 @@ Contributors:
 * GEK1505 Living With Mathematics
 * GEM2900 Understanding Uncertainty and Statistics 
 * GEM2901 Statistics in the Media 
-* **CP3101B Web Programming and Applications**
-* [2015 Course Webpage] (http://www.comp.nus.edu.sg/~stevenha/cp3101b.html)
 * [MIT Open Courseware] (http://ocw.mit.edu/index.htm)
 * [Stanford Online] (http://online.stanford.edu/courses)
