@@ -158,10 +158,9 @@ Contributors:
 * [College Physics by Serway] (http://www.amazon.com/College-Physics-Edition-Raymond-Serway/dp/0840062060)
 
 ### iOS
-* **Objective-C**
 * [Objective-C online video course by Stanford University] (https://itunes.apple.com/en/course/developing-ios-7-apps-for/id733644550)
-* **Swift**
 * [Swift online video course by Stanford University - SAME PROFESSOR!] (https://itunes.apple.com/en/course/developing-ios-8-apps-swift/id961180099)
+* [Simple-to-use web-based prototyping application using images for iPhone - 30 days free trial] (https://www.flinto.com)
 
 ### Other fun stuff 
 * GEK1505 Living With Mathematics
