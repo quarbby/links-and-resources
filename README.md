@@ -154,10 +154,14 @@ Contributors:
 * [Textbook: Mathematical Analysis and Statistics by John Rice](ftp://nozdr.ru/biblioteka/kolxo3/M_Mathematics/MV_Probability/MVsa_Statistics%20and%20applications/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3ed.,%20Duxbury,%202006)(ISBN%200534399428)(O)(685s)_MVsa_.pdf)
 * **ST2137 Computer Aided Data Analysis** 
 * [AY2013/2014 Course Webpage](http://www.stat.nus.edu.sg/~zhangjt/teaching/ST2137/ST2137.htm)
-
-
 * **PC1221 Fundamentals of Physics** 
 * [College Physics by Serway] (http://www.amazon.com/College-Physics-Edition-Raymond-Serway/dp/0840062060)
+
+### iOS
+* **Objective-C**
+* [Objective-C online video course by Stanford University] (https://itunes.apple.com/en/course/developing-ios-7-apps-for/id733644550)
+* **Swift**
+* [Swift online video course by Stanford University - SAME PROFESSOR!] (https://itunes.apple.com/en/course/developing-ios-8-apps-swift/id961180099)
 
 ### Other fun stuff 
 * GEK1505 Living With Mathematics
