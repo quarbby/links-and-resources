@@ -5,6 +5,7 @@ As of Year 2015
 
 Contributors:
 * [@chanjunweimy](https://github.com/chanjunweimy)
+* [@dexots](https://github.com/dexots)
 * [@quarbby] (https://github.com/quarbby)
 * Help us build this list! :) 
 
@@ -12,6 +13,7 @@ Contributors:
 * [Programme Requirements] (http://www.comp.nus.edu.sg/undergraduates/cs_cs_2014_15.html)
 * [NUS SoC Focus Areas] (https://www.comp.nus.edu.sg/undergraduates/cs_cs_focus.html)
 * [SoC Course Catalogue] (https://www.comp.nus.edu.sg/undergraduates/useful_course_schedule.html)
+* [NUSMods for Timetable Planning](https://nusmods.com/)
 
 ### Programme Requirements
 ##### Learning C
@@ -67,10 +69,6 @@ Contributors:
 * **Learning about web applications from other source**
 * [Course from The University of New Mexico] (https://www.coursera.org/course/webapplications)
 
-##### Office 365 APIs
-* **Learning Office 365 APIs in English**
-* [Course from Microsoft Experts] (https://www.edx.org/course/introduction-office-365-apis-microsoft-cld201x-0)
-
 ##### Learning other basics
 * **CS2100 Computer Organisation** 
 * [AY2014/2015 Website by Aaron Tan](http://www.comp.nus.edu.sg/~cs2100/)
@@ -95,9 +93,12 @@ Contributors:
 * **CS3244 Machine Learning** 
 * [Textbook used: Machine Learning by Tom M. Mitchell] (http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) 
 * [Stanford Machine Learning Course by Andrew Ng] (https://www.coursera.org/course/ml)
-* **CS5228 Knowledge Discovery and Data Mining** [The 2014 page] (http://www1.i2r.a-star.edu.sg/~jspan/courses/nus/CS5228.htm)
+* **CS5228 Knowledge Discovery and Data Mining** 
+* [The 2014 page] (http://www1.i2r.a-star.edu.sg/~jspan/courses/nus/CS5228.htm)
 * [Recommender Systems and Social Web 2014] (http://ls13-www.cs.uni-dortmund.de/homepage/rsweb2014/acceptedpapers.shtml)
 * [Kaggle Competition] (https://www.kaggle.com/)
+* [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+* [Mining of massive datasets(Second Edition).  Leskovec, Jure, Anand Rajaraman, and Jeffrey David Ullman. Cambridge University Press, 2014.](http://www.mmds.org/)
 
 ### Computer Networks 
 * **CS2105 Introduction to Computer Networks** 
@@ -118,7 +119,6 @@ Contributors:
 * [OpenCV] (opencv.org/)
 * [OpenCVSharp, a C# Wrapper for OpenCV] (https://github.com/shimat/opencvsharp)
 * [EE4212 Computer Vision](https://courses.nus.edu.sg/course/eleclf/ee4212/)
-
 
 ### Information Retrieval
 * **CS3245 Introduction to Information Retrieval** 
@@ -143,7 +143,6 @@ Contributors:
 * [Java Coding Conventions] (http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
 * [C++ Coding Conventions by Google] (https://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
 
-
 ### Mathematics & Physics 
 * **MA1101R Linear Algebra I** 
 * Textbook: Linear Algebra: Concepts and Techniques on Euclidean Spaces by Ng Kah Loon. Can only buy at NUS Co-Op
@@ -157,7 +156,11 @@ Contributors:
 * **PC1221 Fundamentals of Physics** 
 * [College Physics by Serway] (http://www.amazon.com/College-Physics-Edition-Raymond-Serway/dp/0840062060)
 
-### iOS
+##### Office 365 APIs
+* **Learning Office 365 APIs in English**
+* [Course from Microsoft Experts] (https://www.edx.org/course/introduction-office-365-apis-microsoft-cld201x-0)
+
+### iOS Programming
 * [Objective-C online video course by Stanford University] (https://itunes.apple.com/en/course/developing-ios-7-apps-for/id733644550)
 * [Swift online video course by Stanford University - SAME PROFESSOR!] (https://itunes.apple.com/en/course/developing-ios-8-apps-swift/id961180099)
 * [Simple-to-use web-based prototyping application using images for iPhone - 30 days free trial] (https://www.flinto.com)
