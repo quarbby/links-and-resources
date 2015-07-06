@@ -7,6 +7,7 @@ Contributors:
 * [@chanjunweimy](https://github.com/chanjunweimy)
 * [@dexots](https://github.com/dexots)
 * [@quarbby] (https://github.com/quarbby)
+* [@spyrant] (https://github.com/spyrant)
 * Help us build this list! :) 
 
 ### First things firsts
@@ -167,6 +168,8 @@ Contributors:
 
 ### Other fun stuff 
 * GEK1505 Living With Mathematics
+* GEK1508 Einstein's Universe & Quantum Weirdness ([Jin Zhe's notes](resources/GEK1508/GEK1508 NOTES.docx))
+* GEK1509 Introduction To The Nanoworld ([Jin Zhe's notes](resources/GEK1509/GEK1509 NOTES.docx))
 * GEM2900 Understanding Uncertainty and Statistics 
 * GEM2901 Statistics in the Media 
 * [MIT Open Courseware] (http://ocw.mit.edu/index.htm)
