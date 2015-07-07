@@ -34,9 +34,9 @@ Contributors:
   * **C/C++ References**
     * [cppreference] (http://www.cplusplus.com/reference/)
 * **CS3241 Computer Graphics** (Using OpenGL with C++)
-  * Getting the OpenGL library
+  * **Getting the OpenGL library**
     * [Get OpenGL] (http://www.opengl.org/)
-  * Self-learning Resources
+  * **Self-learning Resources**
     * [An intro to modern OpenGL] (http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Table-of-Contents.html)
     * [MIT course materials] (http://deslab.mit.edu/DesignLab/13.003/Graphics_Lectures/)
     * [Stanford course materials] (https://graphics.stanford.edu/wikis/cs148-11-fall/Lectures)
@@ -117,6 +117,7 @@ Contributors:
 ### Database Systems 
 * **CS2102 Database Systems**
   * [Great online course on SQL] (http://sqlzoo.net/)
+
 ### Interactive Media
 * **CS4243 Computer Vision and Pattern Recognition**
   * [Computer Vision: Algorithms and Applications by Szeliski] (http://szeliski.org/Book/)
@@ -208,7 +209,7 @@ Contributors:
 * [AngularJS cheatsheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Amazing github repo for blog posts, articles, videos, etc for learning AngularJS] (https://github.com/jmcunningham/AngularJS-Learning)
 * [AngularJS YouTube channel] (https://www.youtube.com/user/angularjs)
-* [More links to resources] (http://stackoverflow.com/questions/14333857/how-to-master-angularjs)
+* [More links] (http://stackoverflow.com/questions/14333857/how-to-master-angularjs)
 
 ### iOS Programming
 * [Objective-C online video course by Stanford University] (https://itunes.apple.com/en/course/developing-ios-7-apps-for/id733644550)
@@ -217,8 +218,8 @@ Contributors:
 
 ### Recommended General Education modules
 * GEK1505 Living With Mathematics
-* GEK1508 Einstein's Universe & Quantum Weirdness ([Jin Zhe's notes](resources/GEK1508/GEK1508 NOTES.docx))
-* GEK1509 Introduction To The Nanoworld ([Jin Zhe's notes](resources/GEK1509/GEK1509 NOTES.docx))
+* GEK1508 Einstein's Universe & Quantum Weirdness ([Jin Zhe's notes] (resources/GEK1508/GEK1508 NOTES.docx))
+* GEK1509 Introduction To The Nanoworld ([Jin Zhe's notes] (resources/GEK1509/GEK1509 NOTES.docx))
 * GEM2900 Understanding Uncertainty and Statistics
 * GEM2901 Statistics in the Media
 
