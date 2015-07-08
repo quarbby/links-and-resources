@@ -10,13 +10,32 @@ Contributors:
 * [@spyrant] (https://github.com/spyrant)
 * Help us build this list! :) 
 
+### Index
+Organised largely by CS Focus Areas 
+* [First things firsts](https://github.com/quarbby/links-and-resources#first-things-firsts)
+* [Algorithms and Theory](https://github.com/quarbby/links-and-resources#algorithms-and-theory)
+* [Artificial Intelligence](https://github.com/quarbby/links-and-resources#artificial-intelligence)
+* [Computer Networks](https://github.com/quarbby/links-and-resources#computer-networks)
+* [Computer Security](https://github.com/quarbby/links-and-resources#computer-security)
+* [Database Systems](https://github.com/quarbby/links-and-resources#database-systems)
+* [Interactive Media](https://github.com/quarbby/links-and-resources#interactive-media)
+* [Information Retrieval](https://github.com/quarbby/links-and-resources#information-retrieval)
+* [Software Engineering](https://github.com/quarbby/links-and-resources#software-engineering)
+* [Mathematics and Physics Modules](https://github.com/quarbby/links-and-resources#mathematics--physics)
+* [Web Development](https://github.com/quarbby/links-and-resources#web-development)
+* [Mobile Development](https://github.com/quarbby/links-and-resources#mobile-development)
+* [Recommended General Education Modules](https://github.com/quarbby/links-and-resources#recommended-general-education-modules)
+* [Free Academic Resources](https://github.com/quarbby/links-and-resources#free-academic-resources)
+* [Cool stuff](https://github.com/quarbby/links-and-resources#cool-stuff)
+
 ### First things firsts
 * [Programme Requirements] (http://www.comp.nus.edu.sg/undergraduates/cs_cs_2014_15.html)
 * [NUS SoC Focus Areas] (https://www.comp.nus.edu.sg/undergraduates/cs_cs_focus.html)
 * [SoC Course Catalogue] (https://www.comp.nus.edu.sg/undergraduates/useful_course_schedule.html)
 * [NUSMods for Timetable Planning](https://nusmods.com/)
+* [Collation of NUS related links](https://bit.ly/BiddingHelp/)
 
-### Programme Requirements
+### Programming Languages
 ##### Learning C
 * **CS1010 Programming Methodology** 
   * [Website for AY2015/2016] (http://www.comp.nus.edu.sg/~cs1010/)
@@ -73,7 +92,7 @@ Contributors:
 * **Learning about web applications from other source**
   * [Course from The University of New Mexico] (https://www.coursera.org/course/webapplications)
 
-##### Learning other basics
+##### Learning other basics for Programme Requirements
 * **CS2100 Computer Organisation** 
   * [AY2014/2015 Website by Aaron Tan] (http://www.comp.nus.edu.sg/~cs2100/)
 * **CS2106 Introduction to Operating Systems**
@@ -124,6 +143,11 @@ Contributors:
   * [OpenCV] (opencv.org/)
   * [OpenCVSharp, a C# Wrapper for OpenCV] (https://github.com/shimat/opencvsharp)
   * [EE4212 Computer Vision] (https://courses.nus.edu.sg/course/eleclf/ee4212/)
+* **CS3247 Game Development**
+  * [Unity 3D] (https://unity3d.com/)
+  * [Unreal Engine] (https://www.unrealengine.com/)
+* **CS4347 Sound and Music Computing** 
+  * [NUS SMC Lab] (http://www.smcnus.org)
 
 ### Information Retrieval
 * **CS3245 Introduction to Information Retrieval** 
@@ -133,13 +157,6 @@ Contributors:
 * **CS3246 Multimedia Content Analysis and Search**
 * **CS4242 Social Media Computing**
 * **CS4248 Natural Language Processing**
-
-### Interactive Media 
-* **CS3247 Game Development**
-  * [Unity 3D] (https://unity3d.com/)
-  * [Unreal Engine] (https://www.unrealengine.com/)
-* **CS4347 Sound and Music Computing** 
-  * [NUS SMC Lab] (http://www.smcnus.org)
 
 ### Software Engineering 
 * **CS2103/T: Software Engineering** 
@@ -211,7 +228,13 @@ Contributors:
 * [AngularJS YouTube channel] (https://www.youtube.com/user/angularjs)
 * [More links] (http://stackoverflow.com/questions/14333857/how-to-master-angularjs)
 
-### iOS Programming
+### Mobile Programming
+
+##### Android Programming
+* [Android Developers Getting Started](https://developer.android.com/training/index.html)
+* [Google Material Design Principles](https://www.google.com/design/spec/material-design/introduction.html)
+
+##### iOS Programming
 * [Objective-C online video course by Stanford University] (https://itunes.apple.com/en/course/developing-ios-7-apps-for/id733644550)
 * [Swift online video course by Stanford University - SAME PROFESSOR!] (https://itunes.apple.com/en/course/developing-ios-8-apps-swift/id961180099)
 * [Simple-to-use web-based prototyping application using images for iPhone - 30 days free trial] (https://www.flinto.com)
@@ -227,7 +250,9 @@ Contributors:
 * [MIT Open Courseware] (http://ocw.mit.edu/index.htm)
 * [Stanford Online] (http://online.stanford.edu/courses)
 * [Coursera] (https://www.coursera.org/)
+* [Programming Books Sandbox](https://github.com/bharathwaaj/sandbox/tree/master/Programming%20books)
 
 ### Cool Stuff
 * [Online IDE and Terminal for almost all languages!] (http://www.tutorialspoint.com/codingground.htm)
 * [40 key computer science terms explained in ways your boss can understand] (http://venturebeat.com/2015/05/07/40-key-computer-science-terms-explained-in-ways-your-boss-can-understand/?utm_content=buffer6f01e&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+* [Notes to NUS Freshmen from the Future, written by some Seniors](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing)
