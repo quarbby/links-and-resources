@@ -121,6 +121,7 @@ Organised largely by CS Focus Areas
   * [UVa Online Judge](https://uva.onlinejudge.org/)
   * [Felix Halim's uHunt](http://uhunt.felix-halim.net/)
   * [HackerRank](https://www.hackerrank.com/)
+  * [CodeForces](http://codeforces.com/)
 
 ### Artificial Intelligence 
 * **CS3243 Introduction to Artificial Intelligence**
@@ -149,8 +150,13 @@ Organised largely by CS Focus Areas
 ### Database Systems 
 * **CS2102 Database Systems**
   * [Great online course on SQL](http://sqlzoo.net/)
+  * [Related course from Stanford](https://www.coursera.org/course/db)
 
 ### Interactive Media
+* **CS3249 User Interface Development**
+  * [Module Website](http://www.comp.nus.edu.sg/~cs3249/)
+  * [Qt Download Site](https://www.qt.io/download-open-source/)
+  * [Official Qt Documentation](http://doc.qt.io/)
 * **CS4243 Computer Vision and Pattern Recognition**
   * [Computer Vision: Algorithms and Applications by Szeliski](http://szeliski.org/Book/)
   * [OpenCV](opencv.org/)
@@ -179,9 +185,15 @@ Organised largely by CS Focus Areas
   * [C++ Coding Conventions by Google](https://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
 
 ### Mathematics & Physics 
+* **CS1231 Discrete Structures** 
+  * [Extra Resources for its first chapter. It is useful for CS2102 also!](https://www.coursera.org/course/maththink)
+* **MA1521 Calculus for Computing** 
+  * [Extra Resources (in Chinese)](https://www.dropbox.com/s/k7sflzv5z67ye29/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B9%8B%E5%80%9A%E5%A4%A9%E5%AE%9D%E5%89%91.pdf?dl=0)
 * **MA1101R Linear Algebra I** 
   * Textbook: Linear Algebra: Concepts and Techniques on Euclidean Spaces by Ng Kah Loon. Can only buy at NUS Co-Op
   * [A textbook from UBC that serves its purpose](http://www.math.ubc.ca/~carrell/NB.pdf)
+* **MA2214 Combinatorics and Graphs I** 
+  * [Textbook (PDF Version)](https://www.dropbox.com/s/q35j3cd68ey13w4/%5BChuan-Chong_C.%2C_Khee-Meng_K.%5D_Principles_and_Tech%28BookZZ.org%29.pdf?dl=0)
 * **ST2334 Probability and Statistics**
   * [One whole long pdf of notes](http://www.stat.nus.edu.sg/~staja/st2334/notes_st2334.pdf)
 * **ST2132 Mathematical Statistics** 
@@ -192,11 +204,12 @@ Organised largely by CS Focus Areas
   * [College Physics by Serway](http://www.amazon.com/College-Physics-Edition-Raymond-Serway/dp/0840062060)
 
 ### Recommended General Education modules
-* GEK1505 Living With Mathematics
+* GEK1505 Living With Mathematics (It is similar to CS1231)
 * GEK1508 Einstein's Universe & Quantum Weirdness ([Jin Zhe's notes](resources/GEK1508/GEK1508 NOTES.docx))
 * GEK1509 Introduction To The Nanoworld ([Jin Zhe's notes](resources/GEK1509/GEK1509 NOTES.docx))
 * GEM2900 Understanding Uncertainty and Statistics
 * GEM2901 Statistics in the Media
+* GEK1527 (or LSM1302) Genes and Society
 
 ### Other Modules
 * IS1105 Strategic IT Applications
