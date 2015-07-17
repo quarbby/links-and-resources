@@ -145,7 +145,7 @@ Organised largely by CS Focus Areas
 
 ### Computer Security
 * **CS2107 Introduction to Security**
-  * [Huge Anderson's slides 2014](http://www.comp.nus.edu.sg/~hugh/presentations/cs2107/)
+  * [Hugh Anderson's slides 2014](http://www.comp.nus.edu.sg/~hugh/presentations/cs2107/)
 
 ### Database Systems 
 * **CS2102 Database Systems**
@@ -310,5 +310,6 @@ Organised largely by CS Focus Areas
 * [Notes to NUS Freshmen from the Future, written by some Seniors](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing)
 
 ### Miscellaneous
+* [Jin Zhe's programming cheatsheets](https://github.com/spyrant/programming-cheatsheets)
 * **Learning Office 365 APIs in English**
   * [Course from Microsoft Experts](https://www.edx.org/course/introduction-office-365-apis-microsoft-cld201x-0)
