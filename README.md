@@ -20,6 +20,7 @@ Organised largely by CS Focus Areas
 * [Database Systems](README.md#database-systems)
 * [Interactive Media](README.md#interactive-media)
 * [Information Retrieval](README.md#information-retrieval)
+* [Parallel Computing](README.md#parallel-computing)
 * [Software Engineering](README.md#software-engineering)
 * [Mathematics and Physics Modules](README.md#mathematics--physics)
 * [Recommended General Education Modules](README.md#recommended-general-education-modules)
@@ -141,7 +142,8 @@ Organised largely by CS Focus Areas
 * **CS2105 Introduction to Computer Networks** 
   * [Course Website by Ooi Wei Tsang](https://blog.nus.edu.sg/cs2105/)
   * [Prof Ooi's Github instructional materials for the blog](https://github.com/weitsang/nus-cs2105)
-  * [Textbook: Computer Networking A Top Down Approach](http://www.amazon.com/Computer-Networking-Top-Down-Approach-Edition/dp/0132856204)
+  * [Textbook: Computer Networking A Top Down Approach](http://www.amazon.com/Computer-Networking-Top-Down-Approach-Edition/dp/0132856204) 
+  * [Textbook: Computer Networking A Top Down Approach PDF] (http://www.tarfandestan.com/forum/attachments/128415d1364149567-fqo47-computer-networking-a-topdown-approach-6th-edition-pdf)
 
 ### Computer Security
 * **CS2107 Introduction to Security**
@@ -177,6 +179,12 @@ Organised largely by CS Focus Areas
 * **CS4242 Social Media Computing**
 * **CS4248 Natural Language Processing**
 
+### Parallel Computing
+* **CS3210 Parallel Computing** 
+  * [Textbook: Parallel Programming for Multicore and Cluster Systems](http://deca.cuc.edu.cn/Community/cfs-filesystemfile.ashx/__key/CommunityServer.Components.PostAttachments/00.00.00.07.59/364204817X-Parallel-Programming-for-Multicore-and-Cluster-Systems.pdf)
+  * [Cuda C++ guide] (www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf)
+  * [Textbook: Introduction to Parallel Computing, Second Edition] (http://srmcse.weebly.com/uploads/8/9/0/9/8909020/introduction_to_parallel_computing_second_edition-ananth_grama..pdf)
+
 ### Software Engineering 
 * **CS2103/T: Software Engineering** 
   * [Module Website AY2014/2015](http://www.comp.nus.edu.sg/~cs2103/AY1415S2/) 
@@ -200,8 +208,10 @@ Organised largely by CS Focus Areas
   * [Textbook: Mathematical Analysis and Statistics by John Rice](ftp://nozdr.ru/biblioteka/kolxo3/M_Mathematics/MV_Probability/MVsa_Statistics%20and%20applications/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3ed.,%20Duxbury,%202006)(ISBN%200534399428)(O)(685s)_MVsa_.pdf)
 * **ST2137 Computer Aided Data Analysis** 
   * [AY2013/2014 Course Webpage](http://www.stat.nus.edu.sg/~zhangjt/teaching/ST2137/ST2137.htm)
-* **PC1221 Fundamentals of Physics** 
+* **PC1221 Fundamentals of Physics I** 
   * [College Physics by Serway](http://www.amazon.com/College-Physics-Edition-Raymond-Serway/dp/0840062060)
+* **PC1222 Fundamental of Physics II**
+  * [Course Webpage by Prof Ke-Qin Zhang] (http://staff.science.nus.edu.sg/~phyzkq/lecture/lecture.htm)
 
 ### Recommended General Education modules
 * GEK1505 Living With Mathematics (It is similar to CS1231)
@@ -217,6 +227,8 @@ Organised largely by CS Focus Areas
 * PH1102E Introduction to Philosophy
  * [Jin Zhe's summarized notes](resources/PH1102E/PH1102E NOTES.docx)
  * [Abraham Kang's notes](https://www.scribd.com/collections/3409107/PH1102E)
+* CS2101 Effective Communication for Computing Professionals
+ * [Reflections Blog by Ms Isabel Chew] (http://blog.nus.edu.sg/isabel99/)
 
 ### Free Academic Resources
 * [MIT Open Courseware](http://ocw.mit.edu/index.htm)
