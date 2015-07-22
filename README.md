@@ -142,6 +142,10 @@ Organised largely by CS Focus Areas
   * [Course Website by Ooi Wei Tsang](https://blog.nus.edu.sg/cs2105/)
   * [Prof Ooi's Github instructional materials for the blog](https://github.com/weitsang/nus-cs2105)
   * [Textbook: Computer Networking A Top Down Approach](http://www.amazon.com/Computer-Networking-Top-Down-Approach-Edition/dp/0132856204)
+* **CS3103 Computer Networks & Protocols**
+  * [Lecture notes](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!82219&authkey=!AJlejDyvdsFd6UI&ithint=folder%2cpdf)
+* **CS4274 Mobile & Multimedia Networking**
+  * [Lecture notes](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!80844&authkey=!ANJzzKYmBlxA-9I&ithint=folder%2cppt)
 
 ### Computer Security
 * **CS2107 Introduction to Security**
