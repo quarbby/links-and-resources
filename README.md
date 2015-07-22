@@ -188,9 +188,11 @@ Organised largely by CS Focus Areas
   * [Java Coding Conventions](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
   * [C++ Coding Conventions by Google](https://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
 
-### Mathematics & Physics 
+### Mathematics & Science 
 * **CS1231 Discrete Structures** 
   * [Extra Resources for its first chapter. It is useful for CS2102 also!](https://www.coursera.org/course/maththink)
+* **LSM1301 General Biology**
+  * [Lecture Notes](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!81451&authkey=!AEr7OnOAscKiJWw&ithint=folder%2cpdf)
 * **MA1521 Calculus for Computing** 
   * [Extra Resources (in Chinese)](https://www.dropbox.com/s/k7sflzv5z67ye29/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B9%8B%E5%80%9A%E5%A4%A9%E5%AE%9D%E5%89%91.pdf?dl=0)
 * **MA1101R Linear Algebra I** 
@@ -211,9 +213,13 @@ Organised largely by CS Focus Areas
 * GEK1505 Living With Mathematics (It is similar to CS1231)
 * GEK1508 Einstein's Universe & Quantum Weirdness ([Jin Zhe's notes](resources/GEK1508/GEK1508 NOTES.docx))
 * GEK1509 Introduction To The Nanoworld ([Jin Zhe's notes](resources/GEK1509/GEK1509 NOTES.docx))
+* [GEM1537 Nanotechnology For Everyone - From Smart Phone, Innovation to Entrepreneurship - Shaping the Future](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!81447&authkey=!AALaJkSUGDWEiog&ithint=folder%2cpdf)
 * GEM2900 Understanding Uncertainty and Statistics
 * GEM2901 Statistics in the Media
 * GEK1527 (or LSM1302) Genes and Society
+
+### Recommended Singapore Studies modules
+* [SSA2204 Nation Building in Singapore](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!83053&authkey=!AB5w0sZqImAFAq8&ithint=folder%2cpdf)
 
 ### Other Modules
 * IS1105 Strategic IT Applications
