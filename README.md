@@ -8,6 +8,7 @@ Contributors:
 * [@dexots](https://github.com/dexots)
 * [@quarbby](https://github.com/quarbby)
 * [@spyrant](https://github.com/spyrant)
+* [@yangshun](https://github.com/yangshun)
 * Help us build this list! :) 
 
 ### Index
@@ -52,7 +53,7 @@ Organised largely by CS Focus Areas
   * [Course from Peking University](https://www.coursera.org/course/spc)
 
 ##### Learning C++
-* **CS1020E & CS2010E**
+* **CS1020E**
   * **Learning C++ in Chinese**
     * [Course from Peking University](https://www.coursera.org/course/spcpp)
   * **Learning C++ in English**
@@ -61,6 +62,8 @@ Organised largely by CS Focus Areas
     * [learncpp](http://www.learncpp.com/)
   * **C/C++ References**
     * [cppreference](http://www.cplusplus.com/reference/)
+  * **CS1020E Unofficial Resources**
+  * * [Tay Yang Shun's site for CS1020E Unofficial Resources](https://sites.google.com/site/cs1020e/)
 * **CS3241 Computer Graphics** (Using OpenGL with C++)
   * **Getting the OpenGL library**
     * [Get OpenGL](http://www.opengl.org/)
@@ -98,7 +101,7 @@ Organised largely by CS Focus Areas
   * [Algorithms from Princeton](http://algs4.cs.princeton.edu/home/)
 
 ##### Learning Web Development Basics
-* **CP3101B Web Programming and Applications**
+* **CP3101B Web Programming and Applications (Mounted as CS3226 in AY2015/16)**
   * [2015 Course Webpage](http://www.comp.nus.edu.sg/~stevenha/cp3101b.html)
 * **Learning about web applications from other source**
   * [Course from The University of New Mexico](https://www.coursera.org/course/webapplications)
@@ -148,6 +151,9 @@ Organised largely by CS Focus Areas
   * [Lecture notes](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!80844&authkey=!ANJzzKYmBlxA-9I&ithint=folder%2cppt)
   * [Textbook: Computer Networking A Top Down Approach](http://www.amazon.com/Computer-Networking-Top-Down-Approach-Edition/dp/0132856204) 
   * [Textbook: Computer Networking A Top Down Approach PDF] (http://www.tarfandestan.com/forum/attachments/128415d1364149567-fqo47-computer-networking-a-topdown-approach-6th-edition-pdf)
+* **CS4344 Networked and Moile Games**
+  * [Official home page](http://blog.nus.edu.sg/cs4344/)
+  * [Yang Shun's model answers to assignments (full marks for all)](https://github.com/yangshun/cs4344)
 
 ### Computer Security
 * **CS2107 Introduction to Security**
@@ -159,6 +165,9 @@ Organised largely by CS Focus Areas
   * [Related course from Stanford](https://www.coursera.org/course/db)
 
 ### Interactive Media
+* **CS3247 Game Development**
+  * [Unity 3D](https://unity3d.com/)
+  * [Unreal Engine](https://www.unrealengine.com/)
 * **CS3249 User Interface Development**
   * [Module Website](http://www.comp.nus.edu.sg/~cs3249/)
   * [Qt Download Site](https://www.qt.io/download-open-source/)
@@ -168,9 +177,8 @@ Organised largely by CS Focus Areas
   * [OpenCV](opencv.org/)
   * [OpenCVSharp, a C# Wrapper for OpenCV](https://github.com/shimat/opencvsharp)
   * [EE4212 Computer Vision](https://courses.nus.edu.sg/course/eleclf/ee4212/)
-* **CS3247 Game Development**
-  * [Unity 3D](https://unity3d.com/)
-  * [Unreal Engine](https://www.unrealengine.com/)
+  * [CS4243 Lab Answers](https://github.com/yangshun/cs4243-labs)
+  * [Sample Project source code](https://github.com/yangshun/cs4243-project)
 * **CS4347 Sound and Music Computing** 
   * [NUS SMC Lab](http://www.smcnus.org)
 
