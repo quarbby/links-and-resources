@@ -2,17 +2,6 @@
 A collection of resources during our studying years in NUS SoC
 Which does not only contain the modules we took, but everything we've came across while struggling through the course :)
 
-Last Updated: 2015
-
-Contributors:
-* [@chanjunweimy](https://github.com/chanjunweimy)
-* [@dexots](https://github.com/dexots)
-* [@quarbby](https://github.com/quarbby)
-* [@spyrant](https://github.com/spyrant)
-* [@yangshun](https://github.com/yangshun)
-* [@panpn](https://github.com/panpn)
-* Help us build this list! :) Fork the repo and send a pull request!
-
 ### Index
 Largely organised by CS Focus Areas
 * [General Resources](README.md#general-resources), or things to make your NUS life easier
@@ -353,5 +342,15 @@ Largely organised by CS Focus Areas
   * [Course from Microsoft Experts](https://www.edx.org/course/introduction-office-365-apis-microsoft-cld201x-0)
 
 
+
+#### Contributors:
+* [@chanjunweimy](https://github.com/chanjunweimy)
+* [@dexots](https://github.com/dexots)
+* [@quarbby](https://github.com/quarbby)
+* [@spyrant](https://github.com/spyrant)
+* [@yangshun](https://github.com/yangshun)
+* [@panpn](https://github.com/panpn)
+
+* Help us build this list! :) Fork the repo and send a pull request!
 
 
