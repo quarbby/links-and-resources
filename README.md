@@ -355,6 +355,7 @@ Largely organised by CS Focus Areas
 * [@yangshun](https://github.com/yangshun)
 * [@panpn](https://github.com/panpn)
 
-* Help us build this list! :) Fork the repo and send a pull request!
+
+Help us build this list! :) Fork the repo and send a pull request!
 
 
