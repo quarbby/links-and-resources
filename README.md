@@ -52,7 +52,7 @@ Largely organised by CS Focus Areas
   * **C/C++ References**
     * [cppreference](http://www.cplusplus.com/reference/)
   * **CS1020E Unofficial Resources**
-  * * [Tay Yang Shun's site for CS1020E Unofficial Resources](https://sites.google.com/site/cs1020e/)
+    * [Tay Yang Shun's site for CS1020E Unofficial Resources](https://sites.google.com/site/cs1020e/)
 * **CS3241 Computer Graphics** (Using OpenGL with C++)
   * **Getting the OpenGL library**
     * [Get OpenGL](http://www.opengl.org/)
@@ -188,6 +188,11 @@ Largely organised by CS Focus Areas
   * [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   * [Java Coding Conventions](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
   * [C++ Coding Conventions by Google](https://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
+* **CS3216 Software Development for Digital Markets**
+  * [On CS3216/CS3217 and Elitism](https://www.facebook.com/notes/ben-leong/on-cs3216cs3217-and-elitism/10153053255577549)
+  * [CS3216 Post Mortem](http://yangshun.im/#/cs3216-post-mortem)
+* **CS3217 Software Engineering on Modern Application Platforms**
+  * [Official Home Page](http://www.comp.nus.edu.sg/~simkc/CS3217/)
 
 ### Mobile Development
 
@@ -202,9 +207,9 @@ Largely organised by CS Focus Areas
 
 ### Web Development 
 
-* **CP3101B Web Programming and Applications (Mounted as CS3226 in AY2015/16)**
+* **CP3101B Web Programming and Applications**
   * [2015 Course Webpage](http://www.comp.nus.edu.sg/~stevenha/cp3101b.html)
-  * Update Aug 2015: This course will be changed to CS3223.
+  * Update Aug 2015: This course will be changed to CS3226.
 * **Learning about web applications**
   * [Course from The University of New Mexico](https://www.coursera.org/course/webapplications)
 
@@ -212,7 +217,6 @@ Largely organised by CS Focus Areas
 
 ##### Learning PHP
 * **Some tutorials**
-  * [W5Schools Tutorial](http://www.w3schools.com/php/)
   * [Interactive PHP](http://www.learn-php.org/)
 * **PHP References**
   * [Official References](http://php.net/manual/en/langref.php)
