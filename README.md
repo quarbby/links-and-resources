@@ -19,6 +19,7 @@ Largely organised by CS Focus Areas
 * [Web Development](README.md#web-development)
 * [Technical Interviews](README.md#technical-intervews) and other tips
 * [Physics and Mathematics](README.md#physics-and-maths), because we all have to take them in our degree requirements
+* [Information Systems Modules](README.md#information-systems-modules)
 * [Others](README.md#others): GEM/ SS modules, Free Academic Resources, and cool coding-related links
 
 ### General Resources
@@ -147,6 +148,7 @@ Largely organised by CS Focus Areas
 * **CS2102 Database Systems**
   * [Great online course on SQL](http://sqlzoo.net/)
   * [Related course from Stanford](https://www.coursera.org/course/db)
+  * [Francis Pang's CS2102 Student Guide](http://www.scribd.com/doc/89034906/CS2102-Database-System-Student-Guide)
 
 ### Interactive Media
 * **CS3247 Game Development**
@@ -290,6 +292,13 @@ Largely organised by CS Focus Areas
 * **PC1222 Fundamental of Physics II**
   * [Course Webpage by Prof Ke-Qin Zhang] (http://staff.science.nus.edu.sg/~phyzkq/lecture/lecture.htm)
 
+### Information Systems Modules
+* **IS1105 Strategic IT Applications** 
+  * [Jin Zhe's condensed notes](resources/IS1105/IS1105 NOTES.docx)
+* **IS2102 Requirements Analysis and Design**
+  * [Lecture Notes & Tutorials](https://copy.com/DjlphiAJmCgt)
+* **IS2103 Enterprise Systems Development Concepts** 
+  * [Lecture Notes](https://copy.com/8mEW6iguhwTjHyy0) 
 
 ### Others
 
@@ -306,8 +315,6 @@ Largely organised by CS Focus Areas
 * [SSA2204 Nation Building in Singapore](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!83053&authkey=!AB5w0sZqImAFAq8&ithint=folder%2cpdf)
 
 #### Other Modules
-* IS1105 Strategic IT Applications
- * [Jin Zhe's condensed notes](resources/IS1105/IS1105 NOTES.docx)
 * PH1102E Introduction to Philosophy
  * [Jin Zhe's summarized notes](resources/PH1102E/PH1102E NOTES.docx)
  * [Abraham Kang's notes](https://www.scribd.com/collections/3409107/PH1102E)
@@ -328,6 +335,7 @@ Largely organised by CS Focus Areas
 * [Codecademy](http://www.codecademy.com/)
 * [Codeschool](https://www.codeschool.com/)
 * [Tutorial Spot](http://www.tutorialspoint.com/)
+* [PluralSight (free 90-day trial for students)](http://www.pluralsight.com/)
 * [Thinkster](https://thinkster.io/)
 * [Code Avengers](https://www.codeavengers.com/)
 * [Treehouse](https://teamtreehouse.com/)
