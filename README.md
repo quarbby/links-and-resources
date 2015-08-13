@@ -17,7 +17,7 @@ Largely organised by CS Focus Areas
 * [Software Engineering](README.md#software-engineering)
 * [Mobile Development](README.md#mobile-development)
 * [Web Development](README.md#web-development)
-* [Technical Interviews](README.md#technical-intervews) and other tips
+* [Technical Interviews *and other tips*](README.md#technical-interviews)
 * [Physics and Mathematics](README.md#physics-and-maths), because we all have to take them in our degree requirements
 * [Information Systems Modules](README.md#information-systems-modules)
 * [Others](README.md#others): GEM/ SS modules, Free Academic Resources, and cool coding-related links
