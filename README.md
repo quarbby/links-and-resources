@@ -17,7 +17,7 @@ Largely organised by CS Focus Areas
 * [Software Engineering](README.md#software-engineering)
 * [Mobile Development](README.md#mobile-development)
 * [Web Development](README.md#web-development)
-* [Technical Interviews](README.md#technical-intervews) and other tips
+* [Technical Interviews *and other tips*](README.md#technical-interviews)
 * [Physics and Mathematics](README.md#physics-and-maths), because we all have to take them in our degree requirements
 * [Information Systems Modules](README.md#information-systems-modules)
 * [Others](README.md#others): GEM/ SS modules, Free Academic Resources, and cool coding-related links
@@ -135,7 +135,7 @@ Largely organised by CS Focus Areas
 * **CS4274 Mobile & Multimedia Networking**
   * [Lecture notes](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!80844&authkey=!ANJzzKYmBlxA-9I&ithint=folder%2cppt)
   * [Textbook: Computer Networking A Top Down Approach](http://www.amazon.com/Computer-Networking-Top-Down-Approach-Edition/dp/0132856204) 
-  * [Textbook: Computer Networking A Top Down Approach PDF] (http://www.tarfandestan.com/forum/attachments/128415d1364149567-fqo47-computer-networking-a-topdown-approach-6th-edition-pdf)
+  * [Textbook: Computer Networking A Top Down Approach PDF](http://www.tarfandestan.com/forum/attachments/128415d1364149567-fqo47-computer-networking-a-topdown-approach-6th-edition-pdf)
 * **CS4344 Networked and Moile Games**
   * [Official home page](http://blog.nus.edu.sg/cs4344/)
   * [Yang Shun's model answers to assignments (full marks for all)](https://github.com/yangshun/cs4344)
@@ -181,8 +181,8 @@ Largely organised by CS Focus Areas
 ### Parallel Computing
 * **CS3210 Parallel Computing** 
   * [Textbook: Parallel Programming for Multicore and Cluster Systems](http://deca.cuc.edu.cn/Community/cfs-filesystemfile.ashx/__key/CommunityServer.Components.PostAttachments/00.00.00.07.59/364204817X-Parallel-Programming-for-Multicore-and-Cluster-Systems.pdf)
-  * [Cuda C++ guide] (www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf)
-  * [Textbook: Introduction to Parallel Computing, Second Edition] (http://srmcse.weebly.com/uploads/8/9/0/9/8909020/introduction_to_parallel_computing_second_edition-ananth_grama..pdf)
+  * [Cuda C++ guide](www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf)
+  * [Textbook: Introduction to Parallel Computing, Second Edition](http://srmcse.weebly.com/uploads/8/9/0/9/8909020/introduction_to_parallel_computing_second_edition-ananth_grama..pdf)
 
 ### Software Engineering 
 * **CS2103/T: Software Engineering** 
@@ -261,6 +261,8 @@ Largely organised by CS Focus Areas
 #### Google
 * [From a Googler: the Google interview process (**MUST READ**)](https://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
 * [Long but worthwhile read by beloved Steve Yegge](http://steve-yegge.blogspot.sg/2008/03/get-that-job-at-google.html)
+* ["Hacking a Google Interview" by MIT](http://courses.csail.mit.edu/iap/interview/materials.php)
+* [APAC Google interview experience/process by Emanuel Saringan](http://lambdageek.com/google-interview-experience)
 
 #### Facebook
 * [Get that job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920)
@@ -292,7 +294,7 @@ Largely organised by CS Focus Areas
 * **PC1221 Fundamentals of Physics I** 
   * [College Physics by Serway](http://www.amazon.com/College-Physics-Edition-Raymond-Serway/dp/0840062060)
 * **PC1222 Fundamental of Physics II**
-  * [Course Webpage by Prof Ke-Qin Zhang] (http://staff.science.nus.edu.sg/~phyzkq/lecture/lecture.htm)
+  * [Course Webpage by Prof Ke-Qin Zhang](http://staff.science.nus.edu.sg/~phyzkq/lecture/lecture.htm)
 
 ### Information Systems Modules
 * **IS1105 Strategic IT Applications** 
@@ -321,7 +323,7 @@ Largely organised by CS Focus Areas
  * [Jin Zhe's summarized notes](resources/PH1102E/PH1102E NOTES.docx)
  * [Abraham Kang's notes](https://www.scribd.com/collections/3409107/PH1102E)
 * CS2101 Effective Communication for Computing Professionals
- * [Reflections Blog by Ms Isabel Chew] (http://blog.nus.edu.sg/isabel99/)
+ * [Reflections Blog by Ms Isabel Chew](http://blog.nus.edu.sg/isabel99/)
 
 ##### Integrated Online IDEs
 * [Cloud9](https://c9.io/)
