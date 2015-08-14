@@ -132,6 +132,7 @@ Largely organised by CS Focus Areas
   * [Kaggle Competition](https://www.kaggle.com/)
   * [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
   * [Mining of massive datasets(Second Edition).  Leskovec, Jure, Anand Rajaraman, and Jeffrey David Ullman. Cambridge University Press, 2014.](http://www.mmds.org/)
+  * [How Do I become a Data Scientist on Quora](https://www.quora.com/How-can-I-become-a-data-scientist
 * **CS5340 Uncertainity Modelling in AI** 
   * [The 2015/2016 Course page by Dr Cheng Li](http://web.bii.a-star.edu.sg/~chengli/courses/CS5340-F15/)
 
@@ -299,7 +300,7 @@ Largely organised by CS Focus Areas
 * **MA1101R Linear Algebra I** 
   * Textbook: Linear Algebra: Concepts and Techniques on Euclidean Spaces by Ng Kah Loon. Can only buy at NUS Co-Op
   * [A textbook from UBC that serves its purpose](http://www.math.ubc.ca/~carrell/NB.pdf)
- * **MA2213 Numerical Analysis** 
+* **MA2213 Numerical Analysis** 
   * [Numerical Methods in Matlab](http://www.math.ohiou.edu/courses/math3600/book.pdf)
   * [Introduction to Numerical Analysis, MIT OpenCourseWare Spring 2012](http://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2012/)
 * **MA2214 Combinatorics and Graphs I** 
