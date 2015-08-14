@@ -20,7 +20,8 @@ Largely organised by CS Focus Areas
 * [Technical Interviews *and other tips*](README.md#technical-interviews)
 * [Physics and Mathematics](README.md#physics-and-maths), because we all have to take them in our degree requirements
 * [Information Systems Modules](README.md#information-systems-modules)
-* [Others](README.md#others): GEM/ SS modules, Free Academic Resources, and cool coding-related links
+* [Other NUS Modules](README.md#others-nus-modules): GEM/ SS modules
+* [Others](README.md#others): Free Academic Resources, and cool coding-related links
 
 ### General Resources
 * [CS Programme Requirements](http://www.comp.nus.edu.sg/undergraduates/cs_cs_2014_15.html)
@@ -119,12 +120,16 @@ Largely organised by CS Focus Areas
 * **CS3244 Machine Learning** 
   * [Textbook used: Machine Learning by Tom M. Mitchell](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) 
   * [Stanford Machine Learning Course by Andrew Ng](https://www.coursera.org/course/ml)
+* **CS4246 AI Planning and Uncertainity**
+  * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
 * **CS5228 Knowledge Discovery and Data Mining** 
   * [The 2014 page](http://www1.i2r.a-star.edu.sg/~jspan/courses/nus/CS5228.htm)
   * [Recommender Systems and Social Web 2014](http://ls13-www.cs.uni-dortmund.de/homepage/rsweb2014/acceptedpapers.shtml)
   * [Kaggle Competition](https://www.kaggle.com/)
   * [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
   * [Mining of massive datasets(Second Edition).  Leskovec, Jure, Anand Rajaraman, and Jeffrey David Ullman. Cambridge University Press, 2014.](http://www.mmds.org/)
+* **CS5340 Uncertainity Modelling in AI** 
+  * [The 2015/2016 Course page by Dr Cheng Li](http://web.bii.a-star.edu.sg/~chengli/courses/CS5340-F15/)
 
 ### Computer Networks 
 * **CS2105 Introduction to Computer Networks** 
@@ -167,6 +172,8 @@ Largely organised by CS Focus Areas
   * [Sample Project source code](https://github.com/yangshun/cs4243-project)
 * **CS4347 Sound and Music Computing** 
   * [NUS SMC Lab](http://www.smcnus.org)
+* **CS5240 Theoretical Foundations in Multimedia Computing** 
+  * [AY2015/16 Website by Prof Leow Wee Kheng](http://www.comp.nus.edu.sg/~cs5240/index.html)
 
 ### Information Retrieval
 * **CS3245 Introduction to Information Retrieval** 
@@ -209,6 +216,10 @@ Largely organised by CS Focus Areas
 * [NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly.](http://nshipster.com)
 * [One-stop website for tutorials for specific functionalities](http://www.raywenderlich.com)
 
+##### Windows 10 Development
+* [What you need for Windows 10](http://blogs.msdn.com/b/msgulfcommunity/archive/2015/08/04/what-you-need-to-start-developing-for-windows-10.aspx)
+
+
 ### Web Development 
 
 * **CP3101B Web Programming and Applications**
@@ -235,6 +246,8 @@ Largely organised by CS Focus Areas
 * [One Month Rails](https://onemonth.com/courses/one-month-rails)
 
 #### Frontend Languages and Frameworks 
+* [List of Front End Feeds](https://github.com/impressivewebs/frontend-feeds)
+* [Front End Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 ##### Learning AngularJS
 * [Getting started](https://angularjs.org/)
@@ -246,7 +259,6 @@ Largely organised by CS Focus Areas
 * [Amazing github repo for blog posts, articles, videos, etc for learning AngularJS](https://github.com/jmcunningham/AngularJS-Learning)
 * [AngularJS YouTube channel](https://www.youtube.com/user/angularjs)
 * [More links](http://stackoverflow.com/questions/14333857/how-to-master-angularjs)
-
 
 ### Technical Interviews
 #### Relevant Resources
@@ -272,10 +284,10 @@ Largely organised by CS Focus Areas
 * [How to Ace an Algorithms Interview](http://www.palantir.com/2011/09/how-to-rock-an-algorithms-interview/)
 * [The Coding Interview](http://www.palantir.com/2011/10/the-coding-interview/)
 
-
 ### Physics and Maths
 * **CS1231 Discrete Structures** 
   * [Extra Resources for its first chapter. It is useful for CS2102 also!](https://www.coursera.org/course/maththink)
+  * [AY2015/16 Course Website taught by Aaron Tan and Terence Sim](http://www.comp.nus.edu.sg/~cs1231/)
 * **LSM1301 General Biology**
   * [Lecture Notes](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!81451&authkey=!AEr7OnOAscKiJWw&ithint=folder%2cpdf)
 * **MA1521 Calculus for Computing** 
@@ -287,6 +299,7 @@ Largely organised by CS Focus Areas
   * [Textbook (PDF Version)](https://www.dropbox.com/s/q35j3cd68ey13w4/%5BChuan-Chong_C.%2C_Khee-Meng_K.%5D_Principles_and_Tech%28BookZZ.org%29.pdf?dl=0)
 * **ST2334 Probability and Statistics**
   * [One whole long pdf of notes](http://www.stat.nus.edu.sg/~staja/st2334/notes_st2334.pdf)
+  * [WZChen Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
 * **ST2132 Mathematical Statistics** 
   * [Textbook: Mathematical Analysis and Statistics by John Rice](ftp://nozdr.ru/biblioteka/kolxo3/M_Mathematics/MV_Probability/MVsa_Statistics%20and%20applications/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3ed.,%20Duxbury,%202006)(ISBN%200534399428)(O)(685s)_MVsa_.pdf)
 * **ST2137 Computer Aided Data Analysis** 
@@ -304,7 +317,7 @@ Largely organised by CS Focus Areas
 * **IS2103 Enterprise Systems Development Concepts** 
   * [Lecture Notes](https://copy.com/8mEW6iguhwTjHyy0) 
 
-### Others
+### Other NUS Modules 
 
 #### General Education modules
 * GEK1505 Living With Mathematics (It is similar to CS1231)
@@ -318,6 +331,9 @@ Largely organised by CS Focus Areas
 #### Singapore Studies modules
 * [SSA2204 Nation Building in Singapore](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!83053&authkey=!AB5w0sZqImAFAq8&ithint=folder%2cpdf)
 
+### Others
+Other Modules, IDEs and Resources
+
 #### Other Modules
 * PH1102E Introduction to Philosophy
  * [Jin Zhe's summarized notes](resources/PH1102E/PH1102E NOTES.docx)
@@ -328,6 +344,12 @@ Largely organised by CS Focus Areas
 ##### Integrated Online IDEs
 * [Cloud9](https://c9.io/)
 * [Nitrous Pro](https://pro.nitrous.io/?l=1)
+
+##### Great IDEs
+* [VIM](http://www.vim.org/)
+* [Sublime Text](http://www.sublimetext.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio 2015](https://www.visualstudio.com/en-us/products/vs-2015-product-editions.aspx)
 
 #### Free Academic Resources
 * [MIT Open Courseware](http://ocw.mit.edu/index.htm)
@@ -347,6 +369,7 @@ Largely organised by CS Focus Areas
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 
 #### Cool Stuff
+* [Awesome Collated List by Sindresorhus](https://github.com/sindresorhus/awesome)
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) presents algorithms in as many different languages as possible
 * [Online IDE and Terminal for almost all languages!](http://www.tutorialspoint.com/codingground.htm)
 * [40 key computer science terms explained in ways your boss can understand](http://venturebeat.com/2015/05/07/40-key-computer-science-terms-explained-in-ways-your-boss-can-understand/?utm_content=buffer6f01e&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
@@ -356,7 +379,6 @@ Largely organised by CS Focus Areas
 * [Jin Zhe's programming cheatsheets](https://github.com/spyrant/programming-cheatsheets)
 * **Learning Office 365 APIs in English**
   * [Course from Microsoft Experts](https://www.edx.org/course/introduction-office-365-apis-microsoft-cld201x-0)
-
 
 
 #### Contributors:
