@@ -78,6 +78,10 @@ Largely organised by CS Focus Areas
   * [Course from University of Michigan](https://www.coursera.org/course/pythonlearn)
 * **Python References**
   * [Official Documents](https://www.python.org/doc/)
+ 
+#### Learning Matlab
+* [Introduction to Matlab, MIT OpenCourseWare 2010](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-094-introduction-to-matlab-january-iap-2010/)
+* [Introduction to Matlab for Engineering Students](https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf)
 
 ##### Learning Java And Algorithms
 * **CS1020 & CS2010 Data Structures and Algorithms**
@@ -295,6 +299,9 @@ Largely organised by CS Focus Areas
 * **MA1101R Linear Algebra I** 
   * Textbook: Linear Algebra: Concepts and Techniques on Euclidean Spaces by Ng Kah Loon. Can only buy at NUS Co-Op
   * [A textbook from UBC that serves its purpose](http://www.math.ubc.ca/~carrell/NB.pdf)
+ * **MA2213 Numerical Analysis** 
+  * [Numerical Methods in Matlab](http://www.math.ohiou.edu/courses/math3600/book.pdf)
+  * [Introduction to Numerical Analysis, MIT OpenCourseWare Spring 2012](http://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2012/)
 * **MA2214 Combinatorics and Graphs I** 
   * [Textbook (PDF Version)](https://www.dropbox.com/s/q35j3cd68ey13w4/%5BChuan-Chong_C.%2C_Khee-Meng_K.%5D_Principles_and_Tech%28BookZZ.org%29.pdf?dl=0)
 * **ST2334 Probability and Statistics**
@@ -374,6 +381,7 @@ Other Modules, IDEs and Resources
 * [Online IDE and Terminal for almost all languages!](http://www.tutorialspoint.com/codingground.htm)
 * [40 key computer science terms explained in ways your boss can understand](http://venturebeat.com/2015/05/07/40-key-computer-science-terms-explained-in-ways-your-boss-can-understand/?utm_content=buffer6f01e&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 * [Notes to NUS Freshmen from the Future, written by some Seniors](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing)
+* [Slack off From Your Job Today and spend some time giggling](http://programmingisterrible.com/post/72437339273/james-mickens-the-funniest-person-in-microsoft)
 
 #### Miscellaneous
 * [Jin Zhe's programming cheatsheets](https://github.com/spyrant/programming-cheatsheets)
