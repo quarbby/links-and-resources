@@ -300,6 +300,7 @@ Largely organised by CS Focus Areas
 * **MA1101R Linear Algebra I** 
   * Textbook: Linear Algebra: Concepts and Techniques on Euclidean Spaces by Ng Kah Loon. Can only buy at NUS Co-Op
   * [A textbook from UBC that serves its purpose](http://www.math.ubc.ca/~carrell/NB.pdf)
+  * [Stanford CS229 Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pd)
 * **MA2213 Numerical Analysis** 
   * [Numerical Methods in Matlab](http://www.math.ohiou.edu/courses/math3600/book.pdf)
   * [Introduction to Numerical Analysis, MIT OpenCourseWare Spring 2012](http://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2012/)
@@ -329,12 +330,17 @@ Largely organised by CS Focus Areas
 
 #### General Education modules
 * GEK1505 Living With Mathematics (It is similar to CS1231)
-* GEK1508 Einstein's Universe & Quantum Weirdness ([Jin Zhe's notes](resources/GEK1508/GEK1508 NOTES.docx))
-* GEK1509 Introduction To The Nanoworld ([Jin Zhe's notes](resources/GEK1509/GEK1509 NOTES.docx))
+* **GEK1508 Einstein's Universe & Quantum Weirdness** 
+   * [Jin Zhe's notes](resources/GEK1508/GEK1508 NOTES.docx)
+* **GEK1509 Introduction To The Nanoworld** 
+   * [Jin Zhe's notes](resources/GEK1509/GEK1509 NOTES.docx)
 * [GEM1537 Nanotechnology For Everyone - From Smart Phone, Innovation to Entrepreneurship - Shaping the Future](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!81447&authkey=!AALaJkSUGDWEiog&ithint=folder%2cpdf)
 * GEM2900 Understanding Uncertainty and Statistics
 * GEM2901 Statistics in the Media
 * GEK1527 (or LSM1302) Genes and Society
+* **GEK1521 Physics In the Life Sciences** 
+  * [Course from Harveford College](https://www.haverford.edu/physics/Amador/links/IPLSResources.php) 
+  * [Course from McGill](http://www.physics.mcgill.ca/~moore/P101/Lectures/)
 
 #### Singapore Studies modules
 * [SSA2204 Nation Building in Singapore](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!83053&authkey=!AB5w0sZqImAFAq8&ithint=folder%2cpdf)
@@ -397,7 +403,9 @@ Other Modules, IDEs and Resources
 * [@spyrant](https://github.com/spyrant)
 * [@yangshun](https://github.com/yangshun)
 * [@panpn](https://github.com/panpn)
-
+* [@jjingrong](https://github.com/jjingrong)
+* [@yzixuan](https://github.com/yzixuan)
+* [@yeshasimaria](https://github.com/yeshasimaria)
 
 Help us build this list! :) Fork the repo and send a pull request!
 
