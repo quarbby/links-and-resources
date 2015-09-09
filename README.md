@@ -29,6 +29,7 @@ Largely organised by CS Focus Areas
 * [SoC Course Catalogue](https://www.comp.nus.edu.sg/undergraduates/useful_course_schedule.html)
 * [NUSMods for Timetable Planning](https://nusmods.com/)
 * [Collation of NUS related links](https://bit.ly/BiddingHelp/)
+* [NUS Computing Slack](http://nuscomputing.slack.com)
 * [Introduction to Sunfire](http://www.comp.nus.edu.sg/~cs1101x/3_ca/labs/lab0/unix_intro.html)
 * [Basic Vim commands](resources/Misc/Vim commands.docx)
 * [Basic UNIX commands](resources/Misc/UNIX commands.docx)
@@ -126,6 +127,7 @@ Largely organised by CS Focus Areas
   * [Stanford Machine Learning Course by Andrew Ng](https://www.coursera.org/course/ml)
 * **CS4246 AI Planning and Uncertainity**
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
+  * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 * **CS5228 Knowledge Discovery and Data Mining** 
   * [The 2014 page](http://www1.i2r.a-star.edu.sg/~jspan/courses/nus/CS5228.htm)
   * [Recommender Systems and Social Web 2014](http://ls13-www.cs.uni-dortmund.de/homepage/rsweb2014/acceptedpapers.shtml)
@@ -133,6 +135,7 @@ Largely organised by CS Focus Areas
   * [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
   * [Mining of massive datasets(Second Edition).  Leskovec, Jure, Anand Rajaraman, and Jeffrey David Ullman. Cambridge University Press, 2014.](http://www.mmds.org/)
   * [How Do I become a Data Scientist on Quora](https://www.quora.com/How-can-I-become-a-data-scientist
+  * [60 Free Data Science Books](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 * **CS5340 Uncertainity Modelling in AI** 
   * [The 2015/2016 Course page by Dr Cheng Li](http://web.bii.a-star.edu.sg/~chengli/courses/CS5340-F15/)
 
