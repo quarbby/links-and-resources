@@ -35,6 +35,7 @@ Largely organised by CS Focus Areas
 * [Basic UNIX commands](resources/Misc/UNIX commands.docx)
 * [Resources for Freshman by Mr. Aaron Tan](http://www.comp.nus.edu.sg/~cs1010/4_misc/freshmen.html)
 * [ReadPeer IVLE for reading and organising IVLE notes](http://ivle.readpeer.com)
+* [Foundation Of Computer Science(Online Textbook](http://i.stanford.edu/~ullman/focs.html)
 
 ### Learning to Program
 ##### Learning C
@@ -117,6 +118,9 @@ Largely organised by CS Focus Areas
   * [Felix Halim's uHunt](http://uhunt.felix-halim.net/)
   * [HackerRank](https://www.hackerrank.com/)
   * [CodeForces](http://codeforces.com/)
+* **CS4232 Theory of Computation**
+  * [1516 Semester 1 Module Website by Frank Stephan](http://www.comp.nus.edu.sg/~fstephan/theoryofcomputation.html)
+  * [Related Stanford course in Coursera](https://www.coursera.org/course/automata)
   
 ### Artificial Intelligence 
 * **CS3243 Introduction to Artificial Intelligence**
