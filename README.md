@@ -138,7 +138,7 @@ Largely organised by CS Focus Areas
   * [Kaggle Competition](https://www.kaggle.com/)
   * [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
   * [Mining of massive datasets(Second Edition).  Leskovec, Jure, Anand Rajaraman, and Jeffrey David Ullman. Cambridge University Press, 2014.](http://www.mmds.org/)
-  * [How Do I become a Data Scientist on Quora](https://www.quora.com/How-can-I-become-a-data-scientist
+  * [How Do I become a Data Scientist on Quora](https://www.quora.com/How-can-I-become-a-data-scientist)
   * [60 Free Data Science Books](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 * **CS5340 Uncertainity Modelling in AI** 
   * [The 2015/2016 Course page by Dr Cheng Li](http://web.bii.a-star.edu.sg/~chengli/courses/CS5340-F15/)
