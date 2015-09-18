@@ -22,6 +22,7 @@ Largely organised by CS Focus Areas
 * [Information Systems Modules](README.md#information-systems-modules)
 * [Other NUS Modules](README.md#others-nus-modules): GEM/ SS modules
 * [Others](README.md#others): Free Academic Resources, and cool coding-related links
+* [Building the list](README.md#Building-the-list)
 
 ### General Resources
 * [CS Programme Requirements](http://www.comp.nus.edu.sg/undergraduates/cs_cs_2014_15.html)
@@ -412,3 +413,6 @@ Other Modules, IDEs and Resources
 * [Jin Zhe's programming cheatsheets](https://github.com/spyrant/programming-cheatsheets)
 * **Learning Office 365 APIs in English**
   * [Course from Microsoft Experts](https://www.edx.org/course/introduction-office-365-apis-microsoft-cld201x-0)
+
+#### Building the list
+* Help us build the list! [(how)](https://github.com/quarbby/links-and-resources/blob/master/Contributing.md)
