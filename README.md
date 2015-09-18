@@ -205,7 +205,7 @@ Largely organised by CS Focus Areas
 
 ### Software Engineering 
 * **CS2103/T: Software Engineering** 
-  * [Module Website AY2014/2015](http://www.comp.nus.edu.sg/~cs2103/AY1415S2/) 
+  * [Module Website](http://www.comp.nus.edu.sg/~cs2103/) 
   * [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   * [Java Coding Conventions](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
   * [C++ Coding Conventions by Google](https://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
