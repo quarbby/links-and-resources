@@ -22,7 +22,7 @@ Largely organised by CS Focus Areas
 * [Information Systems Modules](README.md#information-systems-modules)
 * [Other NUS Modules](README.md#others-nus-modules): GEM/ SS modules
 * [Others](README.md#others): Free Academic Resources, and cool coding-related links
-* [Building the list](README.md#Building-the-list)
+* [Building the list](README.md#building-the-list)
 
 ### General Resources
 * [CS Programme Requirements](http://www.comp.nus.edu.sg/undergraduates/cs_cs_2014_15.html)
