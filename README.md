@@ -96,6 +96,7 @@ Largely organised by CS Focus Areas
 * **Learning more about algorithms**
   * [Visualgo.Net](http://visualgo.net)
   * [Algorithms from Princeton](http://algs4.cs.princeton.edu/home/)
+  * [Sam's CS1020 Lab Solutions](https://github.com/mauris/CS1020-Labs)
 
 ##### Learning other basics for Programme Requirements
 * **CS2100 Computer Organisation** 
