@@ -351,9 +351,10 @@ Largely organised by CS Focus Areas
 * [GEM1537 Nanotechnology For Everyone - From Smart Phone, Innovation to Entrepreneurship - Shaping the Future](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!81447&authkey=!AALaJkSUGDWEiog&ithint=folder%2cpdf)
 * GEM2900 Understanding Uncertainty and Statistics
 * **GEM2901 Reporting Statistics in the Media** 
-  * [A Dropbox Resource](https://www.dropbox.com/sh/7rddvf30lqy075x/AADIxfqJ5qaiCbP2Zuoa_9XEa?dl=0) 
-* **GEK1527 (or LSM1302) Genes and Society** 
   * [A Dropbox Resource](https://www.dropbox.com/sh/nmpucx6vnr2da1t/AADtjPNDTFiEFGcylXlg9lKLa?dl=0) 
+
+* **GEK1527 (or LSM1302) Genes and Society** 
+  * [A Dropbox Resource](https://www.dropbox.com/sh/7rddvf30lqy075x/AADIxfqJ5qaiCbP2Zuoa_9XEa?dl=0) 
 * **GEK1521 Physics In the Life Sciences** 
   * [Course from Harveford College](https://www.haverford.edu/physics/Amador/links/IPLSResources.php) 
   * [Course from McGill](http://www.physics.mcgill.ca/~moore/P101/Lectures/)
