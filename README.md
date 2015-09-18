@@ -96,6 +96,7 @@ Largely organised by CS Focus Areas
 * **Learning more about algorithms**
   * [Visualgo.Net](http://visualgo.net)
   * [Algorithms from Princeton](http://algs4.cs.princeton.edu/home/)
+  * [Sam's CS1020 Lab Solutions](https://github.com/mauris/CS1020-Labs)
 
 ##### Learning other basics for Programme Requirements
 * **CS2100 Computer Organisation** 
@@ -205,7 +206,7 @@ Largely organised by CS Focus Areas
 
 ### Software Engineering 
 * **CS2103/T: Software Engineering** 
-  * [Module Website AY2014/2015](http://www.comp.nus.edu.sg/~cs2103/AY1415S2/) 
+  * [Module Website](http://www.comp.nus.edu.sg/~cs2103/) 
   * [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   * [Java Coding Conventions](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
   * [C++ Coding Conventions by Google](https://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
@@ -306,6 +307,7 @@ Largely organised by CS Focus Areas
   * [Lecture Notes](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!81451&authkey=!AEr7OnOAscKiJWw&ithint=folder%2cpdf)
 * **MA1521 Calculus for Computing** 
   * [Extra Resources (in Chinese)](https://www.dropbox.com/s/k7sflzv5z67ye29/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B9%8B%E5%80%9A%E5%A4%A9%E5%AE%9D%E5%89%91.pdf?dl=0)
+  * [Final Exam Helpsheet, NWS's Syllabus](https://www.dropbox.com/s/ec4dgu7v7grima4/MA1521%20Final%20Exam%20Helpsheet%20v3-public.pdf?dl=0)
 * **MA1101R Linear Algebra I** 
   * Textbook: Linear Algebra: Concepts and Techniques on Euclidean Spaces by Ng Kah Loon. Can only buy at NUS Co-Op
   * [A textbook from UBC that serves its purpose](http://www.math.ubc.ca/~carrell/NB.pdf)
@@ -396,6 +398,7 @@ Other Modules, IDEs and Resources
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) presents algorithms in as many different languages as possible
 * [Online IDE and Terminal for almost all languages!](http://www.tutorialspoint.com/codingground.htm)
 * [40 key computer science terms explained in ways your boss can understand](http://venturebeat.com/2015/05/07/40-key-computer-science-terms-explained-in-ways-your-boss-can-understand/?utm_content=buffer6f01e&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+* [The Last Lecture by Randy Pausch](https://www.youtube.com/watch?hl=en-GB&v=ji5_MqicxSo)
 * [Notes to NUS Freshmen from the Future, written by some Seniors](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing)
 * [Slack off From Your Job Today and spend some time giggling](http://programmingisterrible.com/post/72437339273/james-mickens-the-funniest-person-in-microsoft)
 
