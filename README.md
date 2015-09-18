@@ -396,6 +396,7 @@ Other Modules, IDEs and Resources
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) presents algorithms in as many different languages as possible
 * [Online IDE and Terminal for almost all languages!](http://www.tutorialspoint.com/codingground.htm)
 * [40 key computer science terms explained in ways your boss can understand](http://venturebeat.com/2015/05/07/40-key-computer-science-terms-explained-in-ways-your-boss-can-understand/?utm_content=buffer6f01e&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+* [The Last Lecture by Randy Pausch](https://www.youtube.com/watch?hl=en-GB&v=ji5_MqicxSo)
 * [Notes to NUS Freshmen from the Future, written by some Seniors](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing)
 * [Slack off From Your Job Today and spend some time giggling](http://programmingisterrible.com/post/72437339273/james-mickens-the-funniest-person-in-microsoft)
 
