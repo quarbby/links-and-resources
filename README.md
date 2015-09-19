@@ -128,6 +128,7 @@ Largely organised by CS Focus Areas
 ### Artificial Intelligence 
 * **CS3243 Introduction to Artificial Intelligence**
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
+  * [AIMA Code](http://aima.cs.berkeley.edu)
   * [Multi-Agent Planning, Learning, and Coordination Group by the lecturer Bryan Low](http://www.comp.nus.edu.sg/~lowkh/grp.html)
 * **CS3244 Machine Learning** 
   * [Textbook used: Machine Learning by Tom M. Mitchell](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) 
