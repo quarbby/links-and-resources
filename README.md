@@ -114,6 +114,10 @@ Largely organised by CS Focus Areas
   * [MIT Introduction to Algorithms Book. Also the textbook used in CS3230.](http://syedwaqarahmad.webs.com/documents/t._cormen_-_introduction_to_algorithms_3rd_edition.pdf)
   * [MIT Similar Course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
   * [Davin's Cheat Sheet for Midterm](http://www.comp.nus.edu.sg/~davinc/CS3230/midterm.pdf)
+  * [Big O Notation Explanation Article](https://www.interviewcake.com/article/big-o-notation-time-and-space-complexity)
+  * [MIT Big O Notation Lecture Notes](http://web.mit.edu/16.070/www/lecture/big_o.pdf)
+  * [A Beginner's Guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+  * [Big O Notation Cheat Sheet](http://bigocheatsheet.com/)
 * **CS3233 Competitive Programming**
   * [Competitive Programming Ver 1](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
   * [Competitive Programming Facebook Page](https://www.facebook.com/competitive.programming?fref=ts)
