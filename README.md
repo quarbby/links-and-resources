@@ -32,7 +32,7 @@ Largely organised by CS Focus Areas
 * [Collation of NUS related links](https://bit.ly/BiddingHelp/)
 * [NUS Computing Slack](http://nuscomputing.slack.com)
 * [Introduction to Sunfire](http://www.comp.nus.edu.sg/~cs1101x/3_ca/labs/lab0/unix_intro.html)
-* [Basic Vim commands](resources/Misc/Vim commands.docx)
+* [Basic Vim commands](resources/Misc/Vim commands.docx) & [Switch to Vim for Good](https://gist.github.com/bpierre/0a0025d348b6001394e0?utm_content=bufferfd053&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Basic UNIX commands](resources/Misc/UNIX commands.docx)
 * [Resources for Freshman by Mr. Aaron Tan](http://www.comp.nus.edu.sg/~cs1010/4_misc/freshmen.html)
 * [ReadPeer IVLE for reading and organising IVLE notes](http://ivle.readpeer.com)
