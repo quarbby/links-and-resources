@@ -58,6 +58,7 @@ Largely organised by CS Focus Areas
     * [cppreference](http://www.cplusplus.com/reference/)
   * **CS1020E Unofficial Resources**
     * [Tay Yang Shun's site for CS1020E Unofficial Resources](https://sites.google.com/site/cs1020e/)
+    * [Acer's site for CS1020E Unofficial Resources)(http://www.innovenus.com/acerwei/other.php)
 * **CS3241 Computer Graphics** (Using OpenGL with C++)
   * **Getting the OpenGL library**
     * [Get OpenGL](http://www.opengl.org/)
