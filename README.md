@@ -282,6 +282,7 @@ Largely organised by CS Focus Areas
 
 ### Technical Interviews
 #### Relevant Resources
+* [Engineering Blogs collated](https://github.com/prakhar1989/system-design-interview)
 * [LeetCode](https://leetcode.com/)
 * [CarrerCup](http://www.careercup.com/)
 * [GeeksforGeeks](http://www.geeksforgeeks.org/)
