@@ -404,6 +404,7 @@ Other Modules, IDEs and Resources
 * [Treehouse](https://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+* [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 
 #### Cool Stuff
 * [Awesome Collated List by Sindresorhus](https://github.com/sindresorhus/awesome)
