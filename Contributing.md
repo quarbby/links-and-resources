@@ -15,6 +15,8 @@ P.S. You may refer to [@phillipadsmith](https://github.com/phillipadsmith)[Aweso
 * [Try Git](https://try.github.io/levels/1/challenges/1)
 * [Pro Git book](https://git-scm.com/book/en/v2)
 * [Awesome Github](https://github.com/phillipadsmith/awesome-github)
+* [Git Cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+* [How to Write a Good Git Commit Message](http://chris.beams.io/posts/git-commit/)
 
 #### Contributors:
 * [@chanjunweimy](https://github.com/chanjunweimy)
@@ -23,6 +25,7 @@ P.S. You may refer to [@phillipadsmith](https://github.com/phillipadsmith)[Aweso
 * [@mauris](https://github/com/mauris)
 * [@panpn](https://github.com/panpn)
 * [@quarbby](https://github.com/quarbby)
+* [@stbman](https://github.com/stbman)
 * [@spyrant](https://github.com/spyrant)
 * [@yangshun](https://github.com/yangshun)
 * [@yeshasimaria](https://github.com/yeshasimaria)
