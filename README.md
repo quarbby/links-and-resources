@@ -169,6 +169,8 @@ Largely organised by CS Focus Areas
 ### Computer Security
 * **CS2107 Introduction to Security**
   * [Hugh Anderson's slides 2014](http://www.comp.nus.edu.sg/~hugh/presentations/cs2107/)
+* **CS5231 System Security**
+  * [Last Year's Webpage](http://www.comp.nus.edu.sg/~cs5231/)
 
 ### Database Systems 
 * **CS2102 Database Systems**
@@ -195,6 +197,8 @@ Largely organised by CS Focus Areas
   * [NUS SMC Lab](http://www.smcnus.org)
 * **CS5240 Theoretical Foundations in Multimedia Computing** 
   * [AY2015/16 Website by Prof Leow Wee Kheng](http://www.comp.nus.edu.sg/~cs5240/index.html)
+* **CS5233 Simulation and Modelling Techniques** 
+  * [AY2015/16 Website by A/P Gary Tan](http://www.comp.nus.edu.sg/~cs5233/)
 
 ### Information Retrieval
 * **CS3245 Introduction to Information Retrieval** 
@@ -218,6 +222,8 @@ Largely organised by CS Focus Areas
   * [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   * [Java Coding Conventions](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
   * [C++ Coding Conventions by Google](https://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
+  * [Design Patterns Explained](http://cdn.preterhuman.net/texts/manuals/Addison%20Wesley%20-%20Design%20Patterns%20Explained%20(2001).pdf)
+  * [Begineer's Guide to Design Patterns](http://code.tutsplus.com/articles/a-beginners-guide-to-design-patterns--net-12752)
 * **CS3216 Software Development for Digital Markets**
   * [On CS3216/CS3217 and Elitism](https://www.facebook.com/notes/ben-leong/on-cs3216cs3217-and-elitism/10153053255577549)
   * [CS3216 Post Mortem](http://yangshun.im/#/cs3216-post-mortem)
@@ -293,6 +299,7 @@ Largely organised by CS Focus Areas
  * [Data-structures](https://github.com/spyrant/data-structures)
  * [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
  * [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/how-would-you-implement-google-search)
+* [Job Puzzles](https://github.com/SITZ/JobPuzzles)
 
 #### Google
 * [From a Googler: the Google interview process (**MUST READ**)](https://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
@@ -383,6 +390,12 @@ Other Modules, IDEs and Resources
 ##### Integrated Online IDEs
 * [Cloud9](https://c9.io/)
 * [Nitrous Pro](https://pro.nitrous.io/?l=1)
+* [Visual Studio Online](https://www.visualstudio.com/en-us/products/what-is-visual-studio-online-vs.aspx)
+
+#### Great Tools for Drawing Diagrams
+* [Visual Studio](https://msdn.microsoft.com/en-us/library/dd409393.aspx)
+* [Draw.io](https://www.draw.io)
+* [Microsoft Visio](https://products.office.com/en-sg/visio/flowchart-software)
 
 ##### Great IDEs
 * [VIM](http://www.vim.org/)
