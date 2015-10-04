@@ -299,6 +299,7 @@ Largely organised by CS Focus Areas
  * [Data-structures](https://github.com/spyrant/data-structures)
  * [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
  * [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/how-would-you-implement-google-search)
+* [Job Puzzles](https://github.com/SITZ/JobPuzzles)
 
 #### Google
 * [From a Googler: the Google interview process (**MUST READ**)](https://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
