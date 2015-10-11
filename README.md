@@ -201,6 +201,8 @@ Largely organised by CS Focus Areas
   * [AY2015/16 Website by A/P Gary Tan](http://www.comp.nus.edu.sg/~cs5233/)
 
 ### Information Retrieval
+* **CS2108 Introduction to Media Computing**
+  * [Fast Fourier Transform (FFT) Interactive Guide](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * **CS3245 Introduction to Information Retrieval** 
   * [Course Webpage 2015](http://www.comp.nus.edu.sg/~kanmy/courses/3245_2015/)
   * [Stanford Natural Language Processing Group](http://nlp.stanford.edu)
