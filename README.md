@@ -433,7 +433,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Slack off From Your Job Today and spend some time giggling](http://programmingisterrible.com/post/72437339273/james-mickens-the-funniest-person-in-microsoft)
 
 #### Troubleshoot
-* [How to properly update Java](https://github.com/chanjunweimy/JDK_PATH_FIXER)
+* [How to properly update Java (Windows)](https://github.com/chanjunweimy/JDK_PATH_FIXER)
 
 #### Miscellaneous
 * [Jin Zhe's programming cheatsheets](https://github.com/spyrant/programming-cheatsheets)
