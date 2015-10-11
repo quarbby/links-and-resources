@@ -21,7 +21,7 @@ Largely organised by CS Focus Areas
 * [Physics and Mathematics](README.md#physics-and-maths), because we all have to take them in our degree requirements
 * [Information Systems Modules](README.md#information-systems-modules)
 * [Other NUS Modules](README.md#others-nus-modules): GEM/ SS modules
-* [Others](README.md#others): Free Academic Resources, and cool coding-related links
+* [Others](README.md#others): Free Academic Resources, cool coding-related links, and some troubleshoots
 * [Building the list](README.md#building-the-list)
 
 ### General Resources
@@ -380,7 +380,7 @@ Largely organised by CS Focus Areas
 * [SSA2204 Nation Building in Singapore](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!83053&authkey=!AB5w0sZqImAFAq8&ithint=folder%2cpdf)
 
 ### Others
-Other Modules, IDEs and Resources
+Other Modules, IDEs, Resources, Cool Stuff, ...
 
 #### Other Modules
 * PH1102E Introduction to Philosophy
@@ -432,10 +432,13 @@ Other Modules, IDEs and Resources
 * [Notes to NUS Freshmen from the Future, written by some Seniors](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing)
 * [Slack off From Your Job Today and spend some time giggling](http://programmingisterrible.com/post/72437339273/james-mickens-the-funniest-person-in-microsoft)
 
+#### Troubleshoot
+* [How to properly update Java (Windows)](https://github.com/chanjunweimy/JDK_PATH_FIXER)
+
 #### Miscellaneous
 * [Jin Zhe's programming cheatsheets](https://github.com/spyrant/programming-cheatsheets)
 * **Learning Office 365 APIs in English**
   * [Course from Microsoft Experts](https://www.edx.org/course/introduction-office-365-apis-microsoft-cld201x-0)
 
-#### Building the list
+### Building the list
 * Help us build the list! [(how)](https://github.com/quarbby/links-and-resources/blob/master/Contributing.md)
