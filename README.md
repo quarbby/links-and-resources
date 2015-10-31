@@ -203,6 +203,8 @@ Largely organised by CS Focus Areas
 ### Information Retrieval
 * **CS2108 Introduction to Media Computing**
   * [Fast Fourier Transform (FFT) Interactive Guide](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+  * [Image Dittering Demo] (http://www.unitzeroone.com/examples/ImageDithering/index.html)
+  * [Open Source JS Image Effects and Filters] (http://joelb.me/jsmanipulate/)
 * **CS3245 Introduction to Information Retrieval** 
   * [Course Webpage 2015](http://www.comp.nus.edu.sg/~kanmy/courses/3245_2015/)
   * [Stanford Natural Language Processing Group](http://nlp.stanford.edu)
