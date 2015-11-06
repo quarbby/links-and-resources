@@ -119,6 +119,7 @@ Largely organised by CS Focus Areas
   * [MIT Big O Notation Lecture Notes](http://web.mit.edu/16.070/www/lecture/big_o.pdf)
   * [A Beginner's Guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
   * [Big O Notation Cheat Sheet](http://bigocheatsheet.com/)
+  * [A very complete Algorithms Cheat Sheet by algorhythm](https://github.com/algorhythms/Algo-Quicksheet)
 * **CS3233 Competitive Programming**
   * [Competitive Programming Ver 1](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
   * [Competitive Programming Facebook Page](https://www.facebook.com/competitive.programming?fref=ts)
@@ -331,7 +332,7 @@ Largely organised by CS Focus Areas
 * **MA1101R Linear Algebra I** 
   * Textbook: Linear Algebra: Concepts and Techniques on Euclidean Spaces by Ng Kah Loon. Can only buy at NUS Co-Op
   * [A textbook from UBC that serves its purpose](http://www.math.ubc.ca/~carrell/NB.pdf)
-  * [Stanford CS229 Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pd)
+  * [Stanford CS229 Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pdf)
 * **MA2213 Numerical Analysis** 
   * [Numerical Methods in Matlab](http://www.math.ohiou.edu/courses/math3600/book.pdf)
   * [Introduction to Numerical Analysis, MIT OpenCourseWare Spring 2012](http://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2012/)
