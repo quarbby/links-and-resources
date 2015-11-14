@@ -139,6 +139,8 @@ Largely organised by CS Focus Areas
 * **CS3244 Machine Learning** 
   * [Textbook used: Machine Learning by Tom M. Mitchell](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) 
   * [Stanford Machine Learning Course by Andrew Ng](https://www.coursera.org/course/ml)
+  * [Weka Machine Learning And Data Mining Tool](http://www.cs.waikato.ac.nz/ml/weka/)
+  * [Weka Tutorial](https://weka.waikato.ac.nz/dataminingwithweka/preview)
 * **CS4246 AI Planning and Uncertainity**
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
   * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
