@@ -121,12 +121,15 @@ Largely organised by CS Focus Areas
   * [Big O Notation Cheat Sheet](http://bigocheatsheet.com/)
   * [A very complete Algorithms Cheat Sheet by algorhythm](https://github.com/algorhythms/Algo-Quicksheet)
 * **CS3233 Competitive Programming**
+  * [World of Steven](http://www.comp.nus.edu.sg/~stevenha/index.html)
   * [Competitive Programming Ver 1](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
   * [Competitive Programming Facebook Page](https://www.facebook.com/competitive.programming?fref=ts)
   * [UVa Online Judge](https://uva.onlinejudge.org/)
   * [Felix Halim's uHunt](http://uhunt.felix-halim.net/)
   * [HackerRank](https://www.hackerrank.com/)
   * [CodeForces](http://codeforces.com/)
+  * [A Quora list of resources](https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-2-3-months)
+  * [Ferocious Coder, some solutions](http://www.ferociouscoder.com/blog/competitive-programming-3)
 * **CS4232 Theory of Computation**
   * [1516 Semester 1 Module Website by Frank Stephan](http://www.comp.nus.edu.sg/~fstephan/theoryofcomputation.html)
   * [Related Stanford course in Coursera](https://www.coursera.org/course/automata)
@@ -144,6 +147,7 @@ Largely organised by CS Focus Areas
 * **CS4246 AI Planning and Uncertainity**
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
   * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
+  * [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 * **CS5228 Knowledge Discovery and Data Mining** 
   * [The 2014 page](http://www1.i2r.a-star.edu.sg/~jspan/courses/nus/CS5228.htm)
   * [Recommender Systems and Social Web 2014](http://ls13-www.cs.uni-dortmund.de/homepage/rsweb2014/acceptedpapers.shtml)
@@ -307,6 +311,7 @@ Largely organised by CS Focus Areas
  * [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
  * [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/how-would-you-implement-google-search)
 * [Job Puzzles](https://github.com/SITZ/JobPuzzles)
+* [Github Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 
 #### Google
 * [From a Googler: the Google interview process (**MUST READ**)](https://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
@@ -347,6 +352,8 @@ Largely organised by CS Focus Areas
   * [Textbook: Mathematical Analysis and Statistics by John Rice](ftp://nozdr.ru/biblioteka/kolxo3/M_Mathematics/MV_Probability/MVsa_Statistics%20and%20applications/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3ed.,%20Duxbury,%202006)(ISBN%200534399428)(O)(685s)_MVsa_.pdf)
 * **ST2137 Computer Aided Data Analysis** 
   * [AY2013/2014 Course Webpage](http://www.stat.nus.edu.sg/~zhangjt/teaching/ST2137/ST2137.htm)
+* **ST4234 Bayesian Statistics** 
+  * [Alex Cook blog on the module](http://blog.nus.edu.sg/alexcook/teaching/st4234-bayesian-statistics/)  
 * **PC1221 Fundamentals of Physics I** 
   * [College Physics by Serway](http://www.amazon.com/College-Physics-Edition-Raymond-Serway/dp/0840062060)
 * **PC1222 Fundamental of Physics II**
@@ -446,4 +453,4 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
   * [Course from Microsoft Experts](https://www.edx.org/course/introduction-office-365-apis-microsoft-cld201x-0)
 
 ### Building the list
-* Help us build the list! [(how)](https://github.com/quarbby/links-and-resources/blob/master/Contributing.md)
+* Help us build the list! [(how)](./Contributing.md)
