@@ -129,7 +129,7 @@ Largely organised by CS Focus Areas
   * [HackerRank](https://www.hackerrank.com/)
   * [CodeForces](http://codeforces.com/)
   * [A Quora list of resources](https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-2-3-months)
-  * [Ferocious Coder, some solutions](http://www.ferociouscoder.com/blog/competitive-programming-3)
+  * [UVa Online Judge solutions to some problems](https://github.com/ksaveljev/UVa-online-judge)
 * **CS4232 Theory of Computation**
   * [1516 Semester 1 Module Website by Frank Stephan](http://www.comp.nus.edu.sg/~fstephan/theoryofcomputation.html)
   * [Related Stanford course in Coursera](https://www.coursera.org/course/automata)
