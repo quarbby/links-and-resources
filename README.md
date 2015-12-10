@@ -170,13 +170,16 @@ Largely organised by CS Focus Areas
   * [Lecture notes](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!80844&authkey=!ANJzzKYmBlxA-9I&ithint=folder%2cppt)
   * [Textbook: Computer Networking A Top Down Approach](http://www.amazon.com/Computer-Networking-Top-Down-Approach-Edition/dp/0132856204) 
   * [Textbook: Computer Networking A Top Down Approach PDF](http://www.tarfandestan.com/forum/attachments/128415d1364149567-fqo47-computer-networking-a-topdown-approach-6th-edition-pdf)
-* **CS4344 Networked and Moile Games**
+* **CS4344 Networked and Mobile Games**
   * [Official home page](http://blog.nus.edu.sg/cs4344/)
   * [Yang Shun's model answers to assignments (full marks for all)](https://github.com/yangshun/cs4344)
 
 ### Computer Security
 * **CS2107 Introduction to Security**
-  * [Hugh Anderson's slides 2014](http://www.comp.nus.edu.sg/~hugh/presentations/cs2107/)
+  * [Hugh Anderson's slides 2015](http://www.comp.nus.edu.sg/~hugh/presentations/cs2107/)
+* **CS3235 Computer Security**
+  * [Hugh Anderson's Lectures 2015](http://www.comp.nus.edu.sg/~hugh/presentations/cs3235/)
+  * [Previous Project Papers](http://www.comp.nus.edu.sg/~hugh/CS3235/)
 * **CS5231 System Security**
   * [Last Year's Webpage](http://www.comp.nus.edu.sg/~cs5231/)
 
