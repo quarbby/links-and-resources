@@ -14,6 +14,7 @@ Largely organised by CS Focus Areas
 * [Interactive Media](README.md#interactive-media)
 * [Information Retrieval](README.md#information-retrieval)
 * [Parallel Computing](README.md#parallel-computing)
+* [Programming Languages](README.md#programming-languages)
 * [Software Engineering](README.md#software-engineering)
 * [Mobile Development](README.md#mobile-development)
 * [Web Development](README.md#web-development)
@@ -226,6 +227,11 @@ Largely organised by CS Focus Areas
   * [Textbook: Parallel Programming for Multicore and Cluster Systems](http://deca.cuc.edu.cn/Community/cfs-filesystemfile.ashx/__key/CommunityServer.Components.PostAttachments/00.00.00.07.59/364204817X-Parallel-Programming-for-Multicore-and-Cluster-Systems.pdf)
   * [Cuda C++ guide](www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf)
   * [Textbook: Introduction to Parallel Computing, Second Edition](http://srmcse.weebly.com/uploads/8/9/0/9/8909020/introduction_to_parallel_computing_second_edition-ananth_grama..pdf)
+
+### Programming Languages
+* **CS2104 Programming Languages Concepts** 
+  * [2012 Problem Sets](https://github.com/ackoroa/CS2104-Problem-Sets)
+  * [2007 Webpage](http://www.comp.nus.edu.sg/~cs2104/)
 
 ### Software Engineering 
 * **CS2103/T: Software Engineering** 
