@@ -191,6 +191,7 @@ Largely organised by CS Focus Areas
 
 ### Interactive Media
 * **CS3247 Game Development**
+  * [Curated List of Game Development Links](https://github.com/Calinou/awesome-gamedev)
   * [Unity 3D](https://unity3d.com/)
   * [Unreal Engine](https://www.unrealengine.com/)
 * **CS3249 User Interface Development**
@@ -255,6 +256,7 @@ Largely organised by CS Focus Areas
 ##### Android Development
 * [Android Developers Getting Started](https://developer.android.com/training/index.html)
 * [Google Material Design Principles](https://www.google.com/design/spec/material-design/introduction.html)
+* [Collated List of Android Resources](https://github.com/snowdream/awesome-android)
 
 ##### iOS Development
 * [Objective-C online video course by Stanford University](https://itunes.apple.com/en/course/developing-ios-7-apps-for/id733644550)
@@ -367,6 +369,8 @@ Largely organised by CS Focus Areas
   * [College Physics by Serway](http://www.amazon.com/College-Physics-Edition-Raymond-Serway/dp/0840062060)
 * **PC1222 Fundamental of Physics II**
   * [Course Webpage by Prof Ke-Qin Zhang](http://staff.science.nus.edu.sg/~phyzkq/lecture/lecture.htm)
+* **General Mathematics Stuff**
+  * [Springer List of Free Maths PDF](https://gist.github.com/bishboria/8326b17bbd652f34566a)
 
 ### Information Systems Modules
 * **IS1105 Strategic IT Applications** 
@@ -414,6 +418,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Cloud9](https://c9.io/)
 * [Nitrous Pro](https://pro.nitrous.io/?l=1)
 * [Visual Studio Online](https://www.visualstudio.com/en-us/products/what-is-visual-studio-online-vs.aspx)
+* [List of Online IDEs](http://www.tutorialspoint.com/codingground.htm)
 
 #### Great Tools for Drawing Diagrams
 * [Visual Studio](https://msdn.microsoft.com/en-us/library/dd409393.aspx)
@@ -431,6 +436,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Stanford Online](http://online.stanford.edu/courses)
 * [Coursera](https://www.coursera.org/)
 * [Programming Books Sandbox](https://github.com/bharathwaaj/sandbox/tree/master/Programming%20books)
+* [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 
 ##### Top Self-learning Resources
 * [Codecademy](http://www.codecademy.com/)
@@ -443,6 +449,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Udacity](https://www.udacity.com/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+* [Cool Youtube Channels for Learning Programming](https://github.com/epoyraz/Awesome-Youtube-Channels)
 
 #### Cool Stuff
 * [Awesome Collated List by Sindresorhus](https://github.com/sindresorhus/awesome)
