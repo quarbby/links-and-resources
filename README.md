@@ -220,6 +220,7 @@ Largely organised by CS Focus Areas
 * **CS3245 Introduction to Information Retrieval** 
   * [Course Webpage 2015](http://www.comp.nus.edu.sg/~kanmy/courses/3245_2015/)
   * [Stanford Natural Language Processing Group](http://nlp.stanford.edu)
+  * [Stanford Textbook](http://www-nlp.stanford.edu/IR-book/)
   * [NLTK Python](http://www.nltk.org)
 * **CS3246 Multimedia Content Analysis and Search**
 * **CS4242 Social Media Computing**
