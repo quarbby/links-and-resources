@@ -142,6 +142,7 @@ Largely organised by CS Focus Areas
   * [Multi-Agent Planning, Learning, and Coordination Group by the lecturer Bryan Low](http://www.comp.nus.edu.sg/~lowkh/grp.html)
 * **CS3244 Machine Learning** 
   * [Textbook used: Machine Learning by Tom M. Mitchell](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) 
+  * [Stanford Machine Learning Note](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
   * [Stanford Machine Learning Course by Andrew Ng](https://www.coursera.org/course/ml)
   * [Weka Machine Learning And Data Mining Tool](http://www.cs.waikato.ac.nz/ml/weka/)
   * [Weka Tutorial](https://weka.waikato.ac.nz/dataminingwithweka/preview)
