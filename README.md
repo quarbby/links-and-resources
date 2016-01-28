@@ -40,6 +40,9 @@ Largely organised by CS Focus Areas
 * [Foundation Of Computer Science(Online Textbook](http://i.stanford.edu/~ullman/focs.html)
 
 ### Learning to Program
+##### Learning the Command Line
+*[Bash Handbook on Github](https://github.com/denysdovhan/bash-handbook)
+
 ##### Learning C
 * **CS1010 Programming Methodology** 
   * [Website for AY2015/2016](http://www.comp.nus.edu.sg/~cs1010/)
@@ -259,6 +262,7 @@ Largely organised by CS Focus Areas
 * [Android Developers Getting Started](https://developer.android.com/training/index.html)
 * [Google Material Design Principles](https://www.google.com/design/spec/material-design/introduction.html)
 * [Collated List of Android Resources](https://github.com/snowdream/awesome-android)
+* [Awesome Android](https://github.com/snowdream/awesome-android)
 
 ##### iOS Development
 * [Objective-C online video course by Stanford University](https://itunes.apple.com/en/course/developing-ios-7-apps-for/id733644550)
