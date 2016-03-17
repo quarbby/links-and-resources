@@ -143,12 +143,14 @@ Largely organised by CS Focus Areas
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
   * [AIMA Code](http://aima.cs.berkeley.edu)
   * [Multi-Agent Planning, Learning, and Coordination Group by the lecturer Bryan Low](http://www.comp.nus.edu.sg/~lowkh/grp.html)
+  * [University Of California Irvine Equivalent Course](http://www.ics.uci.edu/~rickl/courses/cs-171/2016-wq-cs171/CS-171-WQ-2016.htm)
 * **CS3244 Machine Learning** 
   * [Textbook used: Machine Learning by Tom M. Mitchell](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) 
   * [Stanford Machine Learning Note](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
   * [Stanford Machine Learning Course by Andrew Ng](https://www.coursera.org/course/ml)
   * [Weka Machine Learning And Data Mining Tool](http://www.cs.waikato.ac.nz/ml/weka/)
   * [Weka Tutorial](https://weka.waikato.ac.nz/dataminingwithweka/preview)
+  * [University Of California Irvine Equivalent Course](http://sli.ics.uci.edu/Classes/2016W-178)
 * **CS4246 AI Planning and Uncertainity**
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
   * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
@@ -226,6 +228,7 @@ Largely organised by CS Focus Areas
   * [Stanford Natural Language Processing Group](http://nlp.stanford.edu)
   * [Stanford Textbook](http://www-nlp.stanford.edu/IR-book/)
   * [NLTK Python](http://www.nltk.org)
+  *  [University Of California Irvine Equivalent Course](https://sites.google.com/site/bozhenabidyuk/teaching/winter-2016/cs-121-in4matx141)
 * **CS3246 Multimedia Content Analysis and Search**
 * **CS4242 Social Media Computing**
 * **CS4248 Natural Language Processing**
