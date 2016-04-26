@@ -151,6 +151,7 @@ Largely organised by CS Focus Areas
   * [Weka Machine Learning And Data Mining Tool](http://www.cs.waikato.ac.nz/ml/weka/)
   * [Weka Tutorial](https://weka.waikato.ac.nz/dataminingwithweka/preview)
   * [University Of California Irvine Equivalent Course](http://sli.ics.uci.edu/Classes/2016W-178)
+  * [Machine Learning Cheat Sheet by soulmachine](https://github.com/soulmachine/machine-learning-cheat-sheet)
 * **CS4246 AI Planning and Uncertainity**
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
   * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
