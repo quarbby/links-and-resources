@@ -354,6 +354,10 @@ Largely organised by CS Focus Areas
   * [AY2015/16 Course Website taught by Aaron Tan and Terence Sim](http://www.comp.nus.edu.sg/~cs1231/)
 * **LSM1301 General Biology**
   * [Lecture Notes](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!81451&authkey=!AEr7OnOAscKiJWw&ithint=folder%2cpdf)
+* **MA1505 Mathematics I**
+  * [Darren Wee notes on Github](https://github.com/darrenwee/nus-ma1505)
+* **MA1506 Mathematics II**
+  * [Darren Wee notes on Github](https://github.com/darrenwee/nus-ma1506) 
 * **MA1521 Calculus for Computing** 
   * [Extra Resources (in Chinese)](https://www.dropbox.com/s/k7sflzv5z67ye29/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B9%8B%E5%80%9A%E5%A4%A9%E5%AE%9D%E5%89%91.pdf?dl=0)
   * [Final Exam Helpsheet, NWS's Syllabus](https://www.dropbox.com/s/ec4dgu7v7grima4/MA1521%20Final%20Exam%20Helpsheet%20v3-public.pdf?dl=0)
@@ -440,6 +444,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Sublime Text](http://www.sublimetext.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Visual Studio 2015](https://www.visualstudio.com/en-us/products/vs-2015-product-editions.aspx)
+* [Tutorials Point Online IDEs](http://www.tutorialspoint.com/codingground.htm)
 
 #### Free Academic Resources
 * [MIT Open Courseware](http://ocw.mit.edu/index.htm)
