@@ -42,6 +42,7 @@ Largely organised by CS Focus Areas
 ### Learning to Program
 ##### Learning the Command Line
 *[Bash Handbook on Github](https://github.com/denysdovhan/bash-handbook)
+*[Vogella Github handbook](http://www.vogella.com/tutorials/Git/article.html)
 
 ##### Learning C
 * **CS1010 Programming Methodology** 
