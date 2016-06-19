@@ -484,6 +484,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Jin Zhe's programming cheatsheets](https://github.com/spyrant/programming-cheatsheets)
 * **Learning Office 365 APIs in English**
   * [Course from Microsoft Experts](https://www.edx.org/course/introduction-office-365-apis-microsoft-cld201x-0)
+* [CMU Grad School Talk](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 
 ### Building the list
 * Help us build the list! [(how)](./Contributing.md)
