@@ -235,6 +235,7 @@ Largely organised by CS Focus Areas
 * **CS4242 Social Media Computing**
 * **CS4248 Natural Language Processing**
   * [Columbia University Topics in Speech Processing: Computational Approaches to Emotional Speech by Julia Hirschberg](http://www.cs.columbia.edu/~julia/courses/CS6998/syllabus11.htm)
+  * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)
 
 ### Parallel Computing
 * **CS3210 Parallel Computing** 
