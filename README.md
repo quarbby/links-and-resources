@@ -336,6 +336,7 @@ Largely organised by CS Focus Areas
 * [Job Puzzles](https://github.com/SITZ/JobPuzzles)
 * [Github Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 * [Technical Interviews Study Resources](https://github.com/jdsutton/Technical-Interview-Megarepo)
+* [Top Coder revision](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
 
 #### Google
 * [From a Googler: the Google interview process (**MUST READ**)](https://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
