@@ -40,9 +40,10 @@ Largely organised by CS Focus Areas
 * [Foundation Of Computer Science(Online Textbook](http://i.stanford.edu/~ullman/focs.html)
 
 ### Learning to Program
+
 ##### Learning the Command Line
-*[Bash Handbook on Github](https://github.com/denysdovhan/bash-handbook)
-*[Vogella Github handbook](http://www.vogella.com/tutorials/Git/article.html)
+* [Bash Handbook on Github](https://github.com/denysdovhan/bash-handbook)
+* [Vogella Github handbook](http://www.vogella.com/tutorials/Git/article.html)
 
 ##### Learning C
 * **CS1010 Programming Methodology** 
@@ -88,7 +89,7 @@ Largely organised by CS Focus Areas
 * **Python References**
   * [Official Documents](https://www.python.org/doc/)
  
-#### Learning Matlab
+##### Learning Matlab
 * [Introduction to Matlab, MIT OpenCourseWare 2010](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-094-introduction-to-matlab-january-iap-2010/)
 * [Introduction to Matlab for Engineering Students](https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf)
 
@@ -284,9 +285,8 @@ Largely organised by CS Focus Areas
 
 ### Web Development 
 
-* **CP3101B Web Programming and Applications**
-  * [2015 Course Webpage](http://www.comp.nus.edu.sg/~stevenha/cp3101b.html)
-  * Update Aug 2015: This course will be changed to CS3226.
+* **CS3226 Web Programming and Applications**
+  * [2016 Course Webpage](http://www.comp.nus.edu.sg/~stevenha/cs3226.html)
 * **Learning about web applications**
   * [Course from The University of New Mexico](https://www.coursera.org/course/webapplications)
 
@@ -405,11 +405,11 @@ Largely organised by CS Focus Areas
 #### General Education modules
 * GEK1505 Living With Mathematics (It is similar to CS1231)
 * **GEK1508 Einstein's Universe & Quantum Weirdness** 
-   * [Jin Zhe's notes](resources/GEK1508/GEK1508 NOTES.docx)
+  * [Jin Zhe's notes](resources/GEK1508/GEK1508 NOTES.docx)
 * **GEK1509 Introduction To The Nanoworld** 
-   * [Jin Zhe's notes](resources/GEK1509/GEK1509 NOTES.docx)
+  * [Jin Zhe's notes](resources/GEK1509/GEK1509 NOTES.docx)
 * **GEK1520/ PC1322 Understanding the Universe** 
-   * [A Dropbox Resource](https://www.dropbox.com/sh/o7kkt8tymswm112/AAAFWvRYZOLgvjAKonFQGg3za?dl=0)
+  * [A Dropbox Resource](https://www.dropbox.com/sh/o7kkt8tymswm112/AAAFWvRYZOLgvjAKonFQGg3za?dl=0)
 * [GEM1537 Nanotechnology For Everyone - From Smart Phone, Innovation to Entrepreneurship - Shaping the Future](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!81447&authkey=!AALaJkSUGDWEiog&ithint=folder%2cpdf)
 * GEM2900 Understanding Uncertainty and Statistics
 * **GEM2901 Reporting Statistics in the Media** 
@@ -434,7 +434,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * CS2101 Effective Communication for Computing Professionals
  * [Reflections Blog by Ms Isabel Chew](http://blog.nus.edu.sg/isabel99/)
 
-##### Integrated Online IDEs
+#### Integrated Online IDEs
 * [Cloud9](https://c9.io/)
 * [Nitrous Pro](https://pro.nitrous.io/?l=1)
 * [Visual Studio Online](https://www.visualstudio.com/en-us/products/what-is-visual-studio-online-vs.aspx)
@@ -445,7 +445,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Draw.io](https://www.draw.io)
 * [Microsoft Visio](https://products.office.com/en-sg/visio/flowchart-software)
 
-##### Great IDEs
+#### Great IDEs
 * [VIM](http://www.vim.org/)
 * [Sublime Text](http://www.sublimetext.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
@@ -459,7 +459,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Programming Books Sandbox](https://github.com/bharathwaaj/sandbox/tree/master/Programming%20books)
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 
-##### Top Self-learning Resources
+#### Top Self-learning Resources
 * [Codecademy](http://www.codecademy.com/)
 * [Codeschool](https://www.codeschool.com/)
 * [Tutorial Spot](http://www.tutorialspoint.com/)
