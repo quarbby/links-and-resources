@@ -74,6 +74,8 @@ Largely organised by CS Focus Areas
     * [Stanford course materials](https://graphics.stanford.edu/wikis/cs148-11-fall/Lectures)
     * [Basic code examples](http://en.wikibooks.org/wiki/OpenGL_Programming)
     * [OpenGL bascis guide](http://open.gl/)
+    * [NeHe Computer Graphics Tutorial](http://nehe.gamedev.net/)
+    * [Learn OpenGL](http://learnopengl.com/)
 
 ##### Learning "C#"
 * **Learning C# in English**
@@ -205,6 +207,8 @@ Largely organised by CS Focus Areas
   * [Unreal Engine](https://www.unrealengine.com/)
   * [Unreal Engine Ray Wenderlich Tutorial](https://www.raywenderlich.com/97058/unreal-engine-tutorial-for-beginners-part-1)
   * [Unreal Engine Reddit Thread](https://www.reddit.com/r/unrealengine/)
+  * [A long list of Game Development Tutorials for Beginners](https://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384)
+  * [Free videos on GDC Vault](http://www.gdcvault.com/free)
 * **CS3249 User Interface Development**
   * [Module Website](http://www.comp.nus.edu.sg/~cs3249/)
   * [Qt Download Site](https://www.qt.io/download-open-source/)
