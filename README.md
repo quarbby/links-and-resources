@@ -124,6 +124,7 @@ Largely organised by CS Focus Areas
   * [A Beginner's Guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
   * [Big O Notation Cheat Sheet](http://bigocheatsheet.com/)
   * [A very complete Algorithms Cheat Sheet by algorhythm](https://github.com/algorhythms/Algo-Quicksheet)
+  * [Big O Complexity Cheat Sheet](http://bigocheatsheet.com)
 * **CS3233 Competitive Programming**
   * [World of Steven](http://www.comp.nus.edu.sg/~stevenha/index.html)
   * [Competitive Programming Ver 1](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
@@ -341,6 +342,8 @@ Largely organised by CS Focus Areas
 * [Technical Interviews Study Resources](https://github.com/jdsutton/Technical-Interview-Megarepo)
 * [Top Coder revision](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
 * [Hacker Rank Cracking the Coding Interview Practices](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview?utm_medium=email&utm_source=hackerrank&utm_campaign=ctci-welcome-email&utm_content=tutorial-link)
+* [Algorithms tutorials by Top Coder's Data Science Community](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+* [Lots of Cheatsheets from LifeHacker](http://www.lifehacker.com.au/2016/10/every-programming-cheat-sheet-a-developer-could-ever-want/)
 
 #### Google
 * [From a Googler: the Google interview process (**MUST READ**)](https://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
