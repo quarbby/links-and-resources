@@ -13,7 +13,7 @@ Modern Operating Systems | Andy Tanenbaum
 Numerical Recipes in C | Press et al
 Structure and Interpretation of Computer Programs | Harold Abelson 
 The Art of Computer Programming | Donald Kruth
-The Mythical Man Month | Fred Brooks
+The Mythical Man-Month | Fred Brooks
 
 #### Programming Books
 Book | Author(s)
