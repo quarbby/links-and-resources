@@ -202,6 +202,8 @@ Largely organised by CS Focus Areas
   * [Curated List of Game Development Links](https://github.com/Calinou/awesome-gamedev)
   * [Unity 3D](https://unity3d.com/)
   * [Unreal Engine](https://www.unrealengine.com/)
+  * [Unreal Engine Ray Wenderlich Tutorial](https://www.raywenderlich.com/97058/unreal-engine-tutorial-for-beginners-part-1)
+  * [Unreal Engine Reddit Thread](https://www.reddit.com/r/unrealengine/)
 * **CS3249 User Interface Development**
   * [Module Website](http://www.comp.nus.edu.sg/~cs3249/)
   * [Qt Download Site](https://www.qt.io/download-open-source/)
