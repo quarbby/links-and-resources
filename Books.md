@@ -19,18 +19,25 @@ The Mythical Man-Month | Fred Brooks
 Book | Author(s)
 --- | ---
 Competitive Programming | Steven Halim
+Game Engine Architecture | Jason Gregory
+Real-Time Rendering |  Tomas Akenine-Moller 
 Learn You Haskell for a Great Good [(link)](http://learnyouahaskell.com) | ?
 
 #### The Light Hearted Books 
 Book | Author(s)
 --- | ---
+Don't Make Me Think, Revisited |  Steve Krug
 Surely you're kidding, Mr Feynmann   | Richard P. Feynmann
+The Design of Everyday Things |  Donald Norman
 
 #### Interview Books 
 Book | Author(s)
 --- | ---
 Are You Smart Enough to Work at Google? | William Poundstone
 Cracking the Coding Interview | Gayle Laakmann McDowell
+
+### Science Books 
+Mathematics and Physics for Programmers |  Danny Kodicek
 
 #### Other Books 
 Book | Author(s)
