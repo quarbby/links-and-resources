@@ -111,8 +111,6 @@ Largely organised by CS Focus Areas
   * [AY2014/2015 Website by Aaron Tan](http://www.comp.nus.edu.sg/~cs2100/)
 * **CS2106 Introduction to Operating Systems**
   * [2011 Course Page by Prof Ooi Wei Tsang](http://blog.nus.edu.sg/cs2106/about/)
-  * [2014/15 Course Page by Lubomir](http://www.comp.nus.edu.sg/~lubomir/)
-  * [Textbook: Operating Systems Principles](http://www.comp.nus.edu.sg/~lubomir/PROOFS/)
 
 
 ### Algorithms and Theory
