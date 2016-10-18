@@ -162,6 +162,7 @@ Largely organised by CS Focus Areas
   * [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
   * [The Essentials of Machine Learning](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
   * [Machine Learning MIT OpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+  * [A library for Gaussian Optimization implemented in python, GPyOpt](https://github.com/SheffieldML/GPyOpt)
 * **CS5228 Knowledge Discovery and Data Mining** 
   * [The 2014 page](http://www1.i2r.a-star.edu.sg/~jspan/courses/nus/CS5228.htm)
   * [Recommender Systems and Social Web 2014](http://ls13-www.cs.uni-dortmund.de/homepage/rsweb2014/acceptedpapers.shtml)
