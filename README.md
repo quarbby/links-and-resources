@@ -227,6 +227,9 @@ Largely organised by CS Focus Areas
   * [NUS SMC Lab](http://www.smcnus.org)
 * **CS4350 Game Development Project**
   * [Resources for Unreal Engine](http://layoutvr.com/)
+  * [Resources for Maya Beginners](http://www.worldofleveldesign.com/categories/cat_3dmodeling.php)
+  * [Maya - Modeling, particle, lightning, rendering of various levels with samples](http://www.hongkiat.com/blog/100-maya-3d-tutorials-beginners-intermediate-advanced-users/)
+  * [Maya - Box modelling a human head:(Just for reference. To show that everything can be modeled from a box. Nowadays we no longer do such complicated model in Maya)](http://www.swinburne.edu.au/design/tutorials/P-maya/T-Maya-Modeling-Box-modeling-a-human-head/ID-172/)
 * **CS5240 Theoretical Foundations in Multimedia Computing** 
   * [AY2015/16 Website by Prof Leow Wee Kheng](http://www.comp.nus.edu.sg/~cs5240/index.html)
 * **CS5233 Simulation and Modelling Techniques** 
