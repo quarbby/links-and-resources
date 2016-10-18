@@ -44,6 +44,7 @@ Book | Author(s)
 --- | ---
 Gödel, Escher, Bach: An Eternal Golden Braid | Douglas Hofstadter
 Zero to One: Notes on Startups, or How to Build the Future | Peter Thiel & Blake Masters
+Ethics & Technology: Controversies, Questions, and Strategies for Ethical Computing (4th Edition) | Herman T. Tavani
 
 #### Further lists 
 * [ACM Classic Books Series](http://dl.acm.org/classics.cfm?CFID=568811003&CFTOKEN=47644654)
