@@ -225,6 +225,8 @@ Largely organised by CS Focus Areas
   * [Sample Project source code](https://github.com/yangshun/cs4243-project)
 * **CS4347 Sound and Music Computing** 
   * [NUS SMC Lab](http://www.smcnus.org)
+* **CS4350 Game Development Project**
+  * [Resources for Unreal Engine](http://layoutvr.com/)
 * **CS5240 Theoretical Foundations in Multimedia Computing** 
   * [AY2015/16 Website by Prof Leow Wee Kheng](http://www.comp.nus.edu.sg/~cs5240/index.html)
 * **CS5233 Simulation and Modelling Techniques** 
