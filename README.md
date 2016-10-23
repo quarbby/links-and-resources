@@ -285,6 +285,7 @@ Largely organised by CS Focus Areas
 * [Google Material Design Principles](https://www.google.com/design/spec/material-design/introduction.html)
 * [Collated List of Android Resources](https://github.com/snowdream/awesome-android)
 * [Awesome Android](https://github.com/snowdream/awesome-android)
+* [CodePath's Guide to Android](http://guides.codepath.com/android)
 
 ##### iOS Development
 * [Objective-C online video course by Stanford University](https://itunes.apple.com/en/course/developing-ios-7-apps-for/id733644550)
