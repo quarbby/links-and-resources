@@ -285,6 +285,7 @@ Largely organised by CS Focus Areas
 * [Google Material Design Principles](https://www.google.com/design/spec/material-design/introduction.html)
 * [Collated List of Android Resources](https://github.com/snowdream/awesome-android)
 * [Awesome Android](https://github.com/snowdream/awesome-android)
+* [CodePath's Guide to Android](http://guides.codepath.com/android)
 
 ##### iOS Development
 * [Objective-C online video course by Stanford University](https://itunes.apple.com/en/course/developing-ios-7-apps-for/id733644550)
@@ -496,6 +497,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [The Last Lecture by Randy Pausch](https://www.youtube.com/watch?hl=en-GB&v=ji5_MqicxSo)
 * [Notes to NUS Freshmen from the Future, written by some Seniors](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing)
 * [Slack off From Your Job Today and spend some time giggling](http://programmingisterrible.com/post/72437339273/james-mickens-the-funniest-person-in-microsoft)
+* [Collection of articles, videos, and resources made by designers at Facebook](http://facebook.design/)
 
 #### Troubleshoot
 * [How to properly update Java (Windows)](https://github.com/chanjunweimy/JDK_PATH_FIXER)
