@@ -218,7 +218,7 @@ Largely organised by CS Focus Areas
   * [Official Qt Documentation](http://doc.qt.io/)
 * **CS4243 Computer Vision and Pattern Recognition**
   * [Computer Vision: Algorithms and Applications by Szeliski](http://szeliski.org/Book/)
-  * [OpenCV](opencv.org/)
+  * [OpenCV](http://opencv.org/)
   * [OpenCVSharp, a C# Wrapper for OpenCV](https://github.com/shimat/opencvsharp)
   * [EE4212 Computer Vision](https://courses.nus.edu.sg/course/eleclf/ee4212/)
   * [CS4243 Lab Answers](https://github.com/yangshun/cs4243-labs)
