@@ -212,6 +212,7 @@ Largely organised by CS Focus Areas
   * [Unreal Engine Reddit Thread](https://www.reddit.com/r/unrealengine/)
   * [A long list of Game Development Tutorials for Beginners](https://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384)
   * [Free videos on GDC Vault](http://www.gdcvault.com/free)
+  * [PixelProspector.com - The Indie Goldmine](http://www.pixelprospector.com/)
 * **CS3249 User Interface Development**
   * [Module Website](http://www.comp.nus.edu.sg/~cs3249/)
   * [Qt Download Site](https://www.qt.io/download-open-source/)
