@@ -338,7 +338,6 @@ Largely organised by CS Focus Areas
 * [AngularJS YouTube channel](https://www.youtube.com/user/angularjs)
 * [More links](http://stackoverflow.com/questions/14333857/how-to-master-angularjs)
 
-
 ### Technical Interviews
 #### Relevant Resources
 * [Engineering Blogs collated](https://github.com/prakhar1989/system-design-interview)
