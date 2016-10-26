@@ -325,10 +325,10 @@ Largely organised by CS Focus Areas
 * [List of Front End Feeds](https://github.com/impressivewebs/frontend-feeds)
 * [Front End Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-##### Learning AngularJS
+##### Learning AngularJS and Angular 2
 * [Getting started on AngularJS](https://angularjs.org/)
 * [Getting started on Angular 2](https://angular.io/)
-* [Quora's answer on 'Differences between AngularJS and Angular 2'](https://www.quora.com/What-is-the-difference-between-AngularJs-and-Angular-2)
+* ['Differences between AngularJS and Angular 2' on Quora](https://www.quora.com/What-is-the-difference-between-AngularJs-and-Angular-2)
 * [AngularJS tutorial by Tutorialspot](http://www.tutorialspoint.com/angularjs/index.htm)
 * [Free basic course from Codeschool](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 * [Codecademy's Learn AngularJS course](http://www.codecademy.com/en/learn/learn-angularjs)
