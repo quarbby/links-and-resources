@@ -326,7 +326,9 @@ Largely organised by CS Focus Areas
 * [Front End Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 ##### Learning AngularJS
-* [Getting started](https://angularjs.org/)
+* [Getting started on AngularJS](https://angularjs.org/)
+* [Getting started on Angular 2](https://angular.io/)
+* [Quora's answer on 'Differences between AngularJS and Angular 2'](https://www.quora.com/What-is-the-difference-between-AngularJs-and-Angular-2)
 * [AngularJS tutorial by Tutorialspot](http://www.tutorialspoint.com/angularjs/index.htm)
 * [Free basic course from Codeschool](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 * [Codecademy's Learn AngularJS course](http://www.codecademy.com/en/learn/learn-angularjs)
@@ -335,6 +337,7 @@ Largely organised by CS Focus Areas
 * [Amazing github repo for blog posts, articles, videos, etc for learning AngularJS](https://github.com/jmcunningham/AngularJS-Learning)
 * [AngularJS YouTube channel](https://www.youtube.com/user/angularjs)
 * [More links](http://stackoverflow.com/questions/14333857/how-to-master-angularjs)
+
 
 ### Technical Interviews
 #### Relevant Resources
