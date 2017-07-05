@@ -360,6 +360,7 @@ Largely organised by CS Focus Areas
 * [Hacker Rank Cracking the Coding Interview Practices](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
 * [Algorithms tutorials by Top Coder's Data Science Community](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 * [Lots of Cheatsheets from LifeHacker](http://www.lifehacker.com.au/2016/10/every-programming-cheat-sheet-a-developer-could-ever-want/)
+* [Yang Shun's Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 #### Google
 * [From a Googler: the Google interview process (**MUST READ**)](https://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
