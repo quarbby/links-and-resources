@@ -341,22 +341,23 @@ Largely organised by CS Focus Areas
 * [More links](http://stackoverflow.com/questions/14333857/how-to-master-angularjs)
 
 ### Technical Interviews
+
 #### Relevant Resources
-* [Engineering Blogs collated](https://github.com/prakhar1989/system-design-interview)
+* [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 * [LeetCode](https://leetcode.com/)
-* [CarrerCup](http://www.careercup.com/)
+* [CareerCup](http://www.careercup.com/)
 * [GeeksforGeeks](http://www.geeksforgeeks.org/)
 * Also see competitive programming platforms under **CS3233 Competitive Programming**
 * Jin Zhe's practices in Java (if it's of any help)
- * [Algorithms](https://github.com/spyrant/algorithms)
- * [Data-structures](https://github.com/spyrant/data-structures)
- * [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
- * [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/how-would-you-implement-google-search)
+  * [Algorithms](https://github.com/spyrant/algorithms)
+  * [Data-structures](https://github.com/spyrant/data-structures)
+* [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
+* [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/how-would-you-implement-google-search)
 * [Job Puzzles](https://github.com/SITZ/JobPuzzles)
 * [Github Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 * [Technical Interviews Study Resources](https://github.com/jdsutton/Technical-Interview-Megarepo)
 * [Top Coder revision](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
-* [Hacker Rank Cracking the Coding Interview Practices](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview?utm_medium=email&utm_source=hackerrank&utm_campaign=ctci-welcome-email&utm_content=tutorial-link)
+* [Hacker Rank Cracking the Coding Interview Practices](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
 * [Algorithms tutorials by Top Coder's Data Science Community](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 * [Lots of Cheatsheets from LifeHacker](http://www.lifehacker.com.au/2016/10/every-programming-cheat-sheet-a-developer-could-ever-want/)
 
