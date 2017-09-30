@@ -76,6 +76,7 @@ Largely organised by CS Focus Areas
     * [OpenGL bascis guide](http://open.gl/)
     * [NeHe Computer Graphics Tutorial](http://nehe.gamedev.net/)
     * [Learn OpenGL](http://learnopengl.com/)
+    * [Links Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 
 ##### Learning "C#"
 * **Learning C# in English**
