@@ -40,9 +40,10 @@ Largely organised by CS Focus Areas
 * [Foundation Of Computer Science(Online Textbook](http://i.stanford.edu/~ullman/focs.html)
 
 ### Learning to Program
+
 ##### Learning the Command Line
-*[Bash Handbook on Github](https://github.com/denysdovhan/bash-handbook)
-*[Vogella Github handbook](http://www.vogella.com/tutorials/Git/article.html)
+* [Bash Handbook on Github](https://github.com/denysdovhan/bash-handbook)
+* [Vogella Github handbook](http://www.vogella.com/tutorials/Git/article.html)
 
 ##### Learning C
 * **CS1010 Programming Methodology** 
@@ -73,6 +74,8 @@ Largely organised by CS Focus Areas
     * [Stanford course materials](https://graphics.stanford.edu/wikis/cs148-11-fall/Lectures)
     * [Basic code examples](http://en.wikibooks.org/wiki/OpenGL_Programming)
     * [OpenGL bascis guide](http://open.gl/)
+    * [NeHe Computer Graphics Tutorial](http://nehe.gamedev.net/)
+    * [Learn OpenGL](http://learnopengl.com/)
 
 ##### Learning "C#"
 * **Learning C# in English**
@@ -88,7 +91,7 @@ Largely organised by CS Focus Areas
 * **Python References**
   * [Official Documents](https://www.python.org/doc/)
  
-#### Learning Matlab
+##### Learning Matlab
 * [Introduction to Matlab, MIT OpenCourseWare 2010](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-094-introduction-to-matlab-january-iap-2010/)
 * [Introduction to Matlab for Engineering Students](https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf)
 
@@ -110,8 +113,7 @@ Largely organised by CS Focus Areas
   * [AY2014/2015 Website by Aaron Tan](http://www.comp.nus.edu.sg/~cs2100/)
 * **CS2106 Introduction to Operating Systems**
   * [2011 Course Page by Prof Ooi Wei Tsang](http://blog.nus.edu.sg/cs2106/about/)
-  * [2014/15 Course Page by Lubomir](http://www.comp.nus.edu.sg/~lubomir/)
-  * [Textbook: Operating Systems Principles](http://www.comp.nus.edu.sg/~lubomir/PROOFS/)
+  * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 
 ### Algorithms and Theory
@@ -125,6 +127,7 @@ Largely organised by CS Focus Areas
   * [A Beginner's Guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
   * [Big O Notation Cheat Sheet](http://bigocheatsheet.com/)
   * [A very complete Algorithms Cheat Sheet by algorhythm](https://github.com/algorhythms/Algo-Quicksheet)
+  * [Big O Complexity Cheat Sheet](http://bigocheatsheet.com)
 * **CS3233 Competitive Programming**
   * [World of Steven](http://www.comp.nus.edu.sg/~stevenha/index.html)
   * [Competitive Programming Ver 1](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
@@ -157,6 +160,9 @@ Largely organised by CS Focus Areas
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
   * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
   * [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
+  * [The Essentials of Machine Learning](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
+  * [Machine Learning MIT OpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+  * [A library for Gaussian Optimization implemented in python, GPyOpt](https://github.com/SheffieldML/GPyOpt)
 * **CS5228 Knowledge Discovery and Data Mining** 
   * [The 2014 page](http://www1.i2r.a-star.edu.sg/~jspan/courses/nus/CS5228.htm)
   * [Recommender Systems and Social Web 2014](http://ls13-www.cs.uni-dortmund.de/homepage/rsweb2014/acceptedpapers.shtml)
@@ -204,19 +210,27 @@ Largely organised by CS Focus Areas
   * [Unreal Engine](https://www.unrealengine.com/)
   * [Unreal Engine Ray Wenderlich Tutorial](https://www.raywenderlich.com/97058/unreal-engine-tutorial-for-beginners-part-1)
   * [Unreal Engine Reddit Thread](https://www.reddit.com/r/unrealengine/)
+  * [A long list of Game Development Tutorials for Beginners](https://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384)
+  * [Free videos on GDC Vault](http://www.gdcvault.com/free)
+  * [PixelProspector.com - The Indie Goldmine](http://www.pixelprospector.com/)
 * **CS3249 User Interface Development**
   * [Module Website](http://www.comp.nus.edu.sg/~cs3249/)
   * [Qt Download Site](https://www.qt.io/download-open-source/)
   * [Official Qt Documentation](http://doc.qt.io/)
 * **CS4243 Computer Vision and Pattern Recognition**
   * [Computer Vision: Algorithms and Applications by Szeliski](http://szeliski.org/Book/)
-  * [OpenCV](opencv.org/)
+  * [OpenCV](http://opencv.org/)
   * [OpenCVSharp, a C# Wrapper for OpenCV](https://github.com/shimat/opencvsharp)
   * [EE4212 Computer Vision](https://courses.nus.edu.sg/course/eleclf/ee4212/)
   * [CS4243 Lab Answers](https://github.com/yangshun/cs4243-labs)
   * [Sample Project source code](https://github.com/yangshun/cs4243-project)
 * **CS4347 Sound and Music Computing** 
   * [NUS SMC Lab](http://www.smcnus.org)
+* **CS4350 Game Development Project**
+  * [Resources for Unreal Engine](http://layoutvr.com/)
+  * [Resources for Maya Beginners](http://www.worldofleveldesign.com/categories/cat_3dmodeling.php)
+  * [Maya - Modeling, particle, lightning, rendering of various levels with samples](http://www.hongkiat.com/blog/100-maya-3d-tutorials-beginners-intermediate-advanced-users/)
+  * [Maya - Box modelling a human head:(Just for reference. To show that everything can be modeled from a box. Nowadays we no longer do such complicated model in Maya)](http://www.swinburne.edu.au/design/tutorials/P-maya/T-Maya-Modeling-Box-modeling-a-human-head/ID-172/)
 * **CS5240 Theoretical Foundations in Multimedia Computing** 
   * [AY2015/16 Website by Prof Leow Wee Kheng](http://www.comp.nus.edu.sg/~cs5240/index.html)
 * **CS5233 Simulation and Modelling Techniques** 
@@ -272,6 +286,7 @@ Largely organised by CS Focus Areas
 * [Google Material Design Principles](https://www.google.com/design/spec/material-design/introduction.html)
 * [Collated List of Android Resources](https://github.com/snowdream/awesome-android)
 * [Awesome Android](https://github.com/snowdream/awesome-android)
+* [CodePath's Guide to Android](http://guides.codepath.com/android)
 
 ##### iOS Development
 * [Objective-C online video course by Stanford University](https://itunes.apple.com/en/course/developing-ios-7-apps-for/id733644550)
@@ -286,9 +301,8 @@ Largely organised by CS Focus Areas
 
 ### Web Development 
 
-* **CP3101B Web Programming and Applications**
-  * [2015 Course Webpage](http://www.comp.nus.edu.sg/~stevenha/cp3101b.html)
-  * Update Aug 2015: This course will be changed to CS3226.
+* **CS3226 Web Programming and Applications**
+  * [2016 Course Webpage](http://www.comp.nus.edu.sg/~stevenha/cs3226.html)
 * **Learning about web applications**
   * [Course from The University of New Mexico](https://www.coursera.org/course/webapplications)
 
@@ -313,8 +327,10 @@ Largely organised by CS Focus Areas
 * [List of Front End Feeds](https://github.com/impressivewebs/frontend-feeds)
 * [Front End Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-##### Learning AngularJS
-* [Getting started](https://angularjs.org/)
+##### Learning AngularJS and Angular 2
+* [Getting started on AngularJS](https://angularjs.org/)
+* [Getting started on Angular 2](https://angular.io/)
+* ['Differences between AngularJS and Angular 2' on Quora](https://www.quora.com/What-is-the-difference-between-AngularJs-and-Angular-2)
 * [AngularJS tutorial by Tutorialspot](http://www.tutorialspoint.com/angularjs/index.htm)
 * [Free basic course from Codeschool](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 * [Codecademy's Learn AngularJS course](http://www.codecademy.com/en/learn/learn-angularjs)
@@ -325,22 +341,26 @@ Largely organised by CS Focus Areas
 * [More links](http://stackoverflow.com/questions/14333857/how-to-master-angularjs)
 
 ### Technical Interviews
+
 #### Relevant Resources
-* [Engineering Blogs collated](https://github.com/prakhar1989/system-design-interview)
+* [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 * [LeetCode](https://leetcode.com/)
-* [CarrerCup](http://www.careercup.com/)
+* [CareerCup](http://www.careercup.com/)
 * [GeeksforGeeks](http://www.geeksforgeeks.org/)
 * Also see competitive programming platforms under **CS3233 Competitive Programming**
 * Jin Zhe's practices in Java (if it's of any help)
- * [Algorithms](https://github.com/spyrant/algorithms)
- * [Data-structures](https://github.com/spyrant/data-structures)
- * [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
- * [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/how-would-you-implement-google-search)
+  * [Algorithms](https://github.com/spyrant/algorithms)
+  * [Data-structures](https://github.com/spyrant/data-structures)
+* [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
+* [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/how-would-you-implement-google-search)
 * [Job Puzzles](https://github.com/SITZ/JobPuzzles)
 * [Github Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 * [Technical Interviews Study Resources](https://github.com/jdsutton/Technical-Interview-Megarepo)
 * [Top Coder revision](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
-* [Hacker Rank Cracking the Coding Interview Practices](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview?utm_medium=email&utm_source=hackerrank&utm_campaign=ctci-welcome-email&utm_content=tutorial-link)
+* [Hacker Rank Cracking the Coding Interview Practices](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
+* [Algorithms tutorials by Top Coder's Data Science Community](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+* [Lots of Cheatsheets from LifeHacker](http://www.lifehacker.com.au/2016/10/every-programming-cheat-sheet-a-developer-could-ever-want/)
+* [Yang Shun's Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 #### Google
 * [From a Googler: the Google interview process (**MUST READ**)](https://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
@@ -407,11 +427,11 @@ Largely organised by CS Focus Areas
 #### General Education modules
 * GEK1505 Living With Mathematics (It is similar to CS1231)
 * **GEK1508 Einstein's Universe & Quantum Weirdness** 
-   * [Jin Zhe's notes](resources/GEK1508/GEK1508 NOTES.docx)
+  * [Jin Zhe's notes](resources/GEK1508/GEK1508 NOTES.docx)
 * **GEK1509 Introduction To The Nanoworld** 
-   * [Jin Zhe's notes](resources/GEK1509/GEK1509 NOTES.docx)
+  * [Jin Zhe's notes](resources/GEK1509/GEK1509 NOTES.docx)
 * **GEK1520/ PC1322 Understanding the Universe** 
-   * [A Dropbox Resource](https://www.dropbox.com/sh/o7kkt8tymswm112/AAAFWvRYZOLgvjAKonFQGg3za?dl=0)
+  * [A Dropbox Resource](https://www.dropbox.com/sh/o7kkt8tymswm112/AAAFWvRYZOLgvjAKonFQGg3za?dl=0)
 * [GEM1537 Nanotechnology For Everyone - From Smart Phone, Innovation to Entrepreneurship - Shaping the Future](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!81447&authkey=!AALaJkSUGDWEiog&ithint=folder%2cpdf)
 * GEM2900 Understanding Uncertainty and Statistics
 * **GEM2901 Reporting Statistics in the Media** 
@@ -436,7 +456,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * CS2101 Effective Communication for Computing Professionals
  * [Reflections Blog by Ms Isabel Chew](http://blog.nus.edu.sg/isabel99/)
 
-##### Integrated Online IDEs
+#### Integrated Online IDEs
 * [Cloud9](https://c9.io/)
 * [Nitrous Pro](https://pro.nitrous.io/?l=1)
 * [Visual Studio Online](https://www.visualstudio.com/en-us/products/what-is-visual-studio-online-vs.aspx)
@@ -447,7 +467,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Draw.io](https://www.draw.io)
 * [Microsoft Visio](https://products.office.com/en-sg/visio/flowchart-software)
 
-##### Great IDEs
+#### Great IDEs
 * [VIM](http://www.vim.org/)
 * [Sublime Text](http://www.sublimetext.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
@@ -461,7 +481,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Programming Books Sandbox](https://github.com/bharathwaaj/sandbox/tree/master/Programming%20books)
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 
-##### Top Self-learning Resources
+#### Top Self-learning Resources
 * [Codecademy](http://www.codecademy.com/)
 * [Codeschool](https://www.codeschool.com/)
 * [Tutorial Spot](http://www.tutorialspoint.com/)
@@ -482,6 +502,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [The Last Lecture by Randy Pausch](https://www.youtube.com/watch?hl=en-GB&v=ji5_MqicxSo)
 * [Notes to NUS Freshmen from the Future, written by some Seniors](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing)
 * [Slack off From Your Job Today and spend some time giggling](http://programmingisterrible.com/post/72437339273/james-mickens-the-funniest-person-in-microsoft)
+* [Collection of articles, videos, and resources made by designers at Facebook](http://facebook.design/)
 
 #### Troubleshoot
 * [How to properly update Java (Windows)](https://github.com/chanjunweimy/JDK_PATH_FIXER)
