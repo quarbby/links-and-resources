@@ -33,8 +33,8 @@ Largely organised by CS Focus Areas
 * [Collation of NUS related links](https://bit.ly/BiddingHelp/)
 * [NUS Computing Slack](http://nuscomputing.slack.com)
 * [Introduction to Sunfire](http://www.comp.nus.edu.sg/~cs1101x/3_ca/labs/lab0/unix_intro.html)
-* [Basic Vim commands](resources/Misc/Vim commands.docx) & [Switch to Vim for Good](https://gist.github.com/bpierre/0a0025d348b6001394e0?utm_content=bufferfd053&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-* [Basic UNIX commands](resources/Misc/UNIX commands.docx)
+* [Basic Vim commands](https://github.com/quarbby/links-and-resources/blob/master/resources/Vim%20commands.docx) & [Switch to Vim for Good](https://gist.github.com/bpierre/0a0025d348b6001394e0?utm_content=bufferfd053&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Basic UNIX commands](https://github.com/quarbby/links-and-resources/blob/master/resources/UNIX%20commands.docx)
 * [Resources for Freshman by Mr. Aaron Tan](http://www.comp.nus.edu.sg/~cs1010/4_misc/freshmen.html)
 * [ReadPeer IVLE for reading and organising IVLE notes](http://ivle.readpeer.com)
 * [Foundation Of Computer Science(Online Textbook](http://i.stanford.edu/~ullman/focs.html)
@@ -50,7 +50,7 @@ Largely organised by CS Focus Areas
 ##### Learning C
 * **CS1010 Programming Methodology** 
   * [Website for AY2015/2016](http://www.comp.nus.edu.sg/~cs1010/)
-  * [Jin Zhe's condensed notes](resources/CS1010/CS1010 NOTES.docx)
+  * [Jin Zhe's condensed notes](https://github.com/quarbby/links-and-resources/blob/master/resources/CS1010/CS1010%20NOTES.docx)
 * **Learning C in Chinese**
   * [Course from Peking University](https://www.coursera.org/course/spc)
 
@@ -102,8 +102,8 @@ Largely organised by CS Focus Areas
 * **CS1020 & CS2010 Data Structures and Algorithms**
   * [Website for AY 2013/14](http://www.comp.nus.edu.sg/~cs1020/)
   * [Online Java IDE](http://www.tutorialspoint.com/compile_java_online.php)
-  * [Jin Zhe's condensed notes for CS1020](resources/CS1020/CS1020 NOTES.docx)
-  * [CS1020 UML conventions](resources/CS1020/UML NOTES.docx)
+  * [Jin Zhe's condensed notes for CS1020](https://github.com/quarbby/links-and-resources/blob/master/resources/CS1020/CS1020%20NOTES.docx)
+  * [CS1020 UML conventions](https://github.com/quarbby/links-and-resources/blob/master/resources/CS1020/UML%20NOTES.docx)
 * **Learning Java in Chinese**
   * [Course from Peking University](https://www.coursera.org/course/pkujava)
 * **Learning more about algorithms**
@@ -433,9 +433,9 @@ Largely organised by CS Focus Areas
 #### General Education modules
 * GEK1505 Living With Mathematics (It is similar to CS1231)
 * **GEK1508 Einstein's Universe & Quantum Weirdness** 
-  * [Jin Zhe's notes](resources/GEK1508/GEK1508 NOTES.docx)
+  * [Jin Zhe's notes](https://github.com/quarbby/links-and-resources/blob/master/resources/GEK1508/GEK1508%20NOTES.docx)
 * **GEK1509 Introduction To The Nanoworld** 
-  * [Jin Zhe's notes](resources/GEK1509/GEK1509 NOTES.docx)
+  * [Jin Zhe's notes](https://github.com/quarbby/links-and-resources/blob/master/resources/GEK1509/GEK1509%20NOTES.docx)
 * **GEK1520/ PC1322 Understanding the Universe** 
   * [A Dropbox Resource](https://www.dropbox.com/sh/o7kkt8tymswm112/AAAFWvRYZOLgvjAKonFQGg3za?dl=0)
 * [GEM1537 Nanotechnology For Everyone - From Smart Phone, Innovation to Entrepreneurship - Shaping the Future](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!81447&authkey=!AALaJkSUGDWEiog&ithint=folder%2cpdf)
@@ -457,7 +457,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 
 #### Other Modules
 * PH1102E Introduction to Philosophy
- * [Jin Zhe's summarized notes](resources/PH1102E/PH1102E NOTES.docx)
+ * [Jin Zhe's summarized notes](https://github.com/quarbby/links-and-resources/blob/master/resources/PH1102E/PH1102E%20NOTES.docx)
  * [Abraham Kang's notes](https://www.scribd.com/collections/3409107/PH1102E)
 * CS2101 Effective Communication for Computing Professionals
  * [Reflections Blog by Ms Isabel Chew](http://blog.nus.edu.sg/isabel99/)
