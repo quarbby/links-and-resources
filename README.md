@@ -341,6 +341,9 @@ Largely organised by CS Focus Areas
 * [AngularJS YouTube channel](https://www.youtube.com/user/angularjs)
 * [More links](http://stackoverflow.com/questions/14333857/how-to-master-angularjs)
 
+##### Learning React
+* [Get Started with Create-React-App](https://github.com/facebookincubator/create-react-app)
+
 ### Technical Interviews
 
 #### Relevant Resources
