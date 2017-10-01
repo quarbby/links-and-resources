@@ -76,6 +76,7 @@ Largely organised by CS Focus Areas
     * [OpenGL bascis guide](http://open.gl/)
     * [NeHe Computer Graphics Tutorial](http://nehe.gamedev.net/)
     * [Learn OpenGL](http://learnopengl.com/)
+    * [Links Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 
 ##### Learning "C#"
 * **Learning C# in English**
@@ -212,13 +213,14 @@ Largely organised by CS Focus Areas
   * [Unreal Engine Reddit Thread](https://www.reddit.com/r/unrealengine/)
   * [A long list of Game Development Tutorials for Beginners](https://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384)
   * [Free videos on GDC Vault](http://www.gdcvault.com/free)
+  * [PixelProspector.com - The Indie Goldmine](http://www.pixelprospector.com/)
 * **CS3249 User Interface Development**
   * [Module Website](http://www.comp.nus.edu.sg/~cs3249/)
   * [Qt Download Site](https://www.qt.io/download-open-source/)
   * [Official Qt Documentation](http://doc.qt.io/)
 * **CS4243 Computer Vision and Pattern Recognition**
   * [Computer Vision: Algorithms and Applications by Szeliski](http://szeliski.org/Book/)
-  * [OpenCV](opencv.org/)
+  * [OpenCV](http://opencv.org/)
   * [OpenCVSharp, a C# Wrapper for OpenCV](https://github.com/shimat/opencvsharp)
   * [EE4212 Computer Vision](https://courses.nus.edu.sg/course/eleclf/ee4212/)
   * [CS4243 Lab Answers](https://github.com/yangshun/cs4243-labs)
@@ -285,6 +287,7 @@ Largely organised by CS Focus Areas
 * [Google Material Design Principles](https://www.google.com/design/spec/material-design/introduction.html)
 * [Collated List of Android Resources](https://github.com/snowdream/awesome-android)
 * [Awesome Android](https://github.com/snowdream/awesome-android)
+* [CodePath's Guide to Android](http://guides.codepath.com/android)
 
 ##### iOS Development
 * [Objective-C online video course by Stanford University](https://itunes.apple.com/en/course/developing-ios-7-apps-for/id733644550)
@@ -325,8 +328,10 @@ Largely organised by CS Focus Areas
 * [List of Front End Feeds](https://github.com/impressivewebs/frontend-feeds)
 * [Front End Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-##### Learning AngularJS
-* [Getting started](https://angularjs.org/)
+##### Learning AngularJS and Angular 2
+* [Getting started on AngularJS](https://angularjs.org/)
+* [Getting started on Angular 2](https://angular.io/)
+* ['Differences between AngularJS and Angular 2' on Quora](https://www.quora.com/What-is-the-difference-between-AngularJs-and-Angular-2)
 * [AngularJS tutorial by Tutorialspot](http://www.tutorialspoint.com/angularjs/index.htm)
 * [Free basic course from Codeschool](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 * [Codecademy's Learn AngularJS course](http://www.codecademy.com/en/learn/learn-angularjs)
@@ -337,24 +342,26 @@ Largely organised by CS Focus Areas
 * [More links](http://stackoverflow.com/questions/14333857/how-to-master-angularjs)
 
 ### Technical Interviews
+
 #### Relevant Resources
-* [Engineering Blogs collated](https://github.com/prakhar1989/system-design-interview)
+* [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 * [LeetCode](https://leetcode.com/)
-* [CarrerCup](http://www.careercup.com/)
+* [CareerCup](http://www.careercup.com/)
 * [GeeksforGeeks](http://www.geeksforgeeks.org/)
 * Also see competitive programming platforms under **CS3233 Competitive Programming**
 * Jin Zhe's practices in Java (if it's of any help)
- * [Algorithms](https://github.com/spyrant/algorithms)
- * [Data-structures](https://github.com/spyrant/data-structures)
- * [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
- * [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/how-would-you-implement-google-search)
+  * [Algorithms](https://github.com/spyrant/algorithms)
+  * [Data-structures](https://github.com/spyrant/data-structures)
+* [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
+* [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/how-would-you-implement-google-search)
 * [Job Puzzles](https://github.com/SITZ/JobPuzzles)
 * [Github Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 * [Technical Interviews Study Resources](https://github.com/jdsutton/Technical-Interview-Megarepo)
 * [Top Coder revision](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
-* [Hacker Rank Cracking the Coding Interview Practices](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview?utm_medium=email&utm_source=hackerrank&utm_campaign=ctci-welcome-email&utm_content=tutorial-link)
+* [Hacker Rank Cracking the Coding Interview Practices](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
 * [Algorithms tutorials by Top Coder's Data Science Community](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 * [Lots of Cheatsheets from LifeHacker](http://www.lifehacker.com.au/2016/10/every-programming-cheat-sheet-a-developer-could-ever-want/)
+* [Yang Shun's Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 #### Google
 * [From a Googler: the Google interview process (**MUST READ**)](https://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
@@ -496,6 +503,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [The Last Lecture by Randy Pausch](https://www.youtube.com/watch?hl=en-GB&v=ji5_MqicxSo)
 * [Notes to NUS Freshmen from the Future, written by some Seniors](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing)
 * [Slack off From Your Job Today and spend some time giggling](http://programmingisterrible.com/post/72437339273/james-mickens-the-funniest-person-in-microsoft)
+* [Collection of articles, videos, and resources made by designers at Facebook](http://facebook.design/)
 
 #### Troubleshoot
 * [How to properly update Java (Windows)](https://github.com/chanjunweimy/JDK_PATH_FIXER)

@@ -29,6 +29,7 @@ P.S. You may refer to [@phillipadsmith](https://github.com/phillipadsmith)[Aweso
 * [@quarbby](https://github.com/quarbby)
 * [@stbman](https://github.com/stbman)
 * [@spyrant](https://github.com/spyrant)
+* [@saihou](https://github.com/saihou)
 * [@yangshun](https://github.com/yangshun)
 * [@yeshasimaria](https://github.com/yeshasimaria)
 * [@yzixuan](https://github.com/yzixuan)

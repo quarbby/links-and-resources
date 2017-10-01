@@ -45,9 +45,13 @@ Book | Author(s)
 Gödel, Escher, Bach: An Eternal Golden Braid | Douglas Hofstadter
 Zero to One: Notes on Startups, or How to Build the Future | Peter Thiel & Blake Masters
 Ethics & Technology: Controversies, Questions, and Strategies for Ethical Computing (4th Edition) | Herman T. Tavani
+Hit Refresh: The Quest to Rediscover Microsoft’s Soul and Imagine a Better Employee            | Satya Nadella 
 
 #### Further lists 
 * [ACM Classic Books Series](http://dl.acm.org/classics.cfm?CFID=568811003&CFTOKEN=47644654)
 * [Quora Answer to what are some good computer science books](https://www.quora.com/What-are-some-of-the-best-books-on-computer-science)
+
+### Resources
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 
