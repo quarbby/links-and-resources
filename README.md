@@ -352,6 +352,7 @@ Largely organised by CS Focus Areas
 
 ##### Learning React
 * [Get Started with Create-React-App](https://github.com/facebookincubator/create-react-app)
+* [Official React Tutorial](https://github.com/reactjs/react-tutorial)
 
 ### Technical Interviews
 
