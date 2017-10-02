@@ -180,6 +180,8 @@ Largely organised by CS Focus Areas
   * [The 2008/2009 Course page by Dr Min](http://www.comp.nus.edu.sg/~kanmy/courses/5246_2008/)
 * **CS6101 Deep Learning for Vision**
   * [The 2017 Course page by Dr Min](http://www.comp.nus.edu.sg/~kanmy/courses/6101_2017/)
+  * [Stanford Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+
 
 ### Computer Networks 
 * **CS2105 Introduction to Computer Networks** 
@@ -259,6 +261,7 @@ Largely organised by CS Focus Areas
 * **CS4248 Natural Language Processing**
   * [Columbia University Topics in Speech Processing: Computational Approaches to Emotional Speech by Julia Hirschberg](http://www.cs.columbia.edu/~julia/courses/CS6998/syllabus11.htm)
   * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)
+  * [Github repositiory for Deep Learning for NLP](https://github.com/rouseguy/DeepLearning-NLP)
 
 ### Parallel Computing
 * **CS3210 Parallel Computing** 
