@@ -176,6 +176,10 @@ Largely organised by CS Focus Areas
   * [60 Free Data Science Books](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 * **CS5340 Uncertainity Modelling in AI** 
   * [The 2015/2016 Course page by Dr Cheng Li](http://web.bii.a-star.edu.sg/~chengli/courses/CS5340-F15/)
+* **CS5246 Text Processing on the Web**
+  * [The 2008/2009 Course page by Dr Min](http://www.comp.nus.edu.sg/~kanmy/courses/5246_2008/)
+* **CS6101 Deep Learning for Vision**
+  * [The 2017 Course page by Dr Min](http://www.comp.nus.edu.sg/~kanmy/courses/6101_2017/)
 
 ### Computer Networks 
 * **CS2105 Introduction to Computer Networks** 
