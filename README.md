@@ -79,6 +79,8 @@ Largely organised by CS Focus Areas
     * [NeHe Computer Graphics Tutorial](http://nehe.gamedev.net/)
     * [Learn OpenGL](http://learnopengl.com/)
     * [Links Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
+	* [Computer Graphics Principles and Practices](https://www.goodreads.com/book/show/603227.Computer_Graphics)
+	* [Mathematics for 3D Game Programming and Computer Graphics](https://www.goodreads.com/book/show/10436065-mathematics-for-3d-game-programming-and-computer-graphics)
 
 ##### Learning "C#"
 * **Learning C# in English**
@@ -375,6 +377,7 @@ Largely organised by CS Focus Areas
 * [Algorithms tutorials by Top Coder's Data Science Community](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 * [Lots of Cheatsheets from LifeHacker](http://www.lifehacker.com.au/2016/10/every-programming-cheat-sheet-a-developer-could-ever-want/)
 * [Yang Shun's Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+* [Programming Interviews Exposed](https://github.com/liwei606/interview/blob/master/Programming%20Interviews%20Exposed%203rd.pdf)
 
 #### Google
 * [From a Googler: the Google interview process (**MUST READ**)](https://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
