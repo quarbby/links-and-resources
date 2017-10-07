@@ -4,6 +4,7 @@ Book | Author(s)
 Artificial Intelligence: A Modern Approach | Stuart Russell, Peter Norvig
 Clean Code: A Handbook of Agile Software Craftsmanship | Robert C. Martin
 Code Complete | Steve McConnell 
+Coders at Work | Peter Seibel
 Computer Graphics : Principles & Practice in C | Foley, van Dam
 Design Patterns: Elements of Reusable Object-Oriented Software (Gang of Four) | Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm
 Hacking: The Art of Exploitation | John Erickson
@@ -11,8 +12,10 @@ Introduction to Algorithms 		| Charles E. Leiserson, Clifford Stein, Ronald Rive
 Linear Algebra | Gibert Strang
 Modern Operating Systems | Andy Tanenbaum
 Numerical Recipes in C | Press et al
+Programming Pearls | Jon Bentley
+Soft Skills: The Software Developers' Life Manual | John Sonmez
 Structure and Interpretation of Computer Programs | Harold Abelson 
-The Art of Computer Programming | Donald Kruth
+The Art of Computer Programming | Donald Kruth [Volume 1 here](http://broiler.astrometry.net/~kilian/The_Art_of_Computer_Programming%20-%20Vol%201.pdf)
 The Mythical Man-Month | Fred Brooks
 
 #### Programming Books
