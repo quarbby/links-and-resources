@@ -176,6 +176,12 @@ Largely organised by CS Focus Areas
   * [60 Free Data Science Books](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 * **CS5340 Uncertainity Modelling in AI** 
   * [The 2015/2016 Course page by Dr Cheng Li](http://web.bii.a-star.edu.sg/~chengli/courses/CS5340-F15/)
+* **CS5246 Text Processing on the Web**
+  * [The 2008/2009 Course page by Dr Min](http://www.comp.nus.edu.sg/~kanmy/courses/5246_2008/)
+* **CS6101 Deep Learning for Vision**
+  * [The 2017 Course page by Dr Min](http://www.comp.nus.edu.sg/~kanmy/courses/6101_2017/)
+  * [Stanford Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+
 
 ### Computer Networks 
 * **CS2105 Introduction to Computer Networks** 
@@ -255,6 +261,7 @@ Largely organised by CS Focus Areas
 * **CS4248 Natural Language Processing**
   * [Columbia University Topics in Speech Processing: Computational Approaches to Emotional Speech by Julia Hirschberg](http://www.cs.columbia.edu/~julia/courses/CS6998/syllabus11.htm)
   * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)
+  * [Github repositiory for Deep Learning for NLP](https://github.com/rouseguy/DeepLearning-NLP)
 
 ### Parallel Computing
 * **CS3210 Parallel Computing** 
@@ -345,6 +352,7 @@ Largely organised by CS Focus Areas
 
 ##### Learning React
 * [Get Started with Create-React-App](https://github.com/facebookincubator/create-react-app)
+* [Official React Tutorial](https://github.com/reactjs/react-tutorial)
 
 ### Technical Interviews
 
