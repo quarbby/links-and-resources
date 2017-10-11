@@ -286,6 +286,7 @@ Largely organised by CS Focus Areas
   * [C++ Coding Conventions by Google](https://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
   * [Design Patterns Explained](http://cdn.preterhuman.net/texts/manuals/Addison%20Wesley%20-%20Design%20Patterns%20Explained%20(2001).pdf)
   * [Begineer's Guide to Design Patterns](http://code.tutsplus.com/articles/a-beginners-guide-to-design-patterns--net-12752)
+  * [The Mythical Man-Month. Essays on Software Engineering](https://is.muni.cz/www/208322/The.Mythical.Man.Month.F.Brooks.pdf)
 * **CS3216 Software Development for Digital Markets**
   * [Official Home Page](http://www.cs3216.com)
   * [On CS3216/CS3217 and Elitism](https://www.facebook.com/notes/ben-leong/on-cs3216cs3217-and-elitism/10153053255577549)
