@@ -183,6 +183,8 @@ Largely organised by CS Focus Areas
 * **CS6101 Deep Learning for Vision**
   * [The 2017 Course page by Dr Min](http://www.comp.nus.edu.sg/~kanmy/courses/6101_2017/)
   * [Stanford Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+  * [Tensorflow Models Zoo](https://github.com/tensorflow/models/)
+  * [Consice Tensorflow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
 
 ### Computer Networks 
