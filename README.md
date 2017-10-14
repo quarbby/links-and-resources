@@ -422,7 +422,7 @@ Largely organised by CS Focus Areas
   * [One whole long pdf of notes](http://www.stat.nus.edu.sg/~staja/st2334/notes_st2334.pdf)
   * [WZChen Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
 * **ST2132 Mathematical Statistics** 
-  * [Textbook: Mathematical Analysis and Statistics by John Rice](ftp://nozdr.ru/biblioteka/kolxo3/M_Mathematics/MV_Probability/MVsa_Statistics%20and%20applications/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3ed.,%20Duxbury,%202006)(ISBN%200534399428)(O)(685s)_MVsa_.pdf)
+  * [Textbook: Mathematical Analysis and Statistics by John Rice](https://gettextbook.download/Stats%20100B/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3rd).pdf)
 * **ST2137 Computer Aided Data Analysis** 
   * [AY2013/2014 Course Webpage](http://www.stat.nus.edu.sg/~zhangjt/teaching/ST2137/ST2137.htm)
 * **ST4234 Bayesian Statistics** 
