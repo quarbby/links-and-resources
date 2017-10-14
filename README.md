@@ -145,8 +145,8 @@ Largely organised by CS Focus Areas
   * [UVa Online Judge solutions to some problems](https://github.com/ksaveljev/UVa-online-judge)
 * **CS4232 Theory of Computation**
   * [1516 Semester 1 Module Website by Frank Stephan](http://www.comp.nus.edu.sg/~fstephan/theoryofcomputation.html)
-  * [Related Stanford course in Coursera](https://www.coursera.org/course/automata)
-  
+  * [Related Stanford course in Coursera]
+
 ### Artificial Intelligence 
 * **CS3243 Introduction to Artificial Intelligence**
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
