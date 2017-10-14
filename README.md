@@ -145,8 +145,8 @@ Largely organised by CS Focus Areas
   * [UVa Online Judge solutions to some problems](https://github.com/ksaveljev/UVa-online-judge)
 * **CS4232 Theory of Computation**
   * [1516 Semester 1 Module Website by Frank Stephan](http://www.comp.nus.edu.sg/~fstephan/theoryofcomputation.html)
-  * [Related Stanford course in Coursera](https://www.coursera.org/course/automata)
-  
+  * [Shai Simonson's course playlist](https://www.youtube.com/playlist?list=PL7HjUNIdk93ThXvz2Oa_g30Jt3Owwm4HZ)
+
 ### Artificial Intelligence 
 * **CS3243 Introduction to Artificial Intelligence**
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
@@ -422,7 +422,7 @@ Largely organised by CS Focus Areas
   * [One whole long pdf of notes](http://www.stat.nus.edu.sg/~staja/st2334/notes_st2334.pdf)
   * [WZChen Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
 * **ST2132 Mathematical Statistics** 
-  * [Textbook: Mathematical Analysis and Statistics by John Rice](ftp://nozdr.ru/biblioteka/kolxo3/M_Mathematics/MV_Probability/MVsa_Statistics%20and%20applications/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3ed.,%20Duxbury,%202006)(ISBN%200534399428)(O)(685s)_MVsa_.pdf)
+  * [Textbook: Mathematical Analysis and Statistics by John Rice](https://gettextbook.download/Stats%20100B/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3rd).pdf)
 * **ST2137 Computer Aided Data Analysis** 
   * [AY2013/2014 Course Webpage](http://www.stat.nus.edu.sg/~zhangjt/teaching/ST2137/ST2137.htm)
 * **ST4234 Bayesian Statistics** 
