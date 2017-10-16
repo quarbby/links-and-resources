@@ -79,6 +79,8 @@ Largely organised by CS Focus Areas
     * [NeHe Computer Graphics Tutorial](http://nehe.gamedev.net/)
     * [Learn OpenGL](http://learnopengl.com/)
     * [Links Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
+	* [Computer Graphics Principles and Practices](https://www.goodreads.com/book/show/603227.Computer_Graphics)
+	* [Mathematics for 3D Game Programming and Computer Graphics](https://www.goodreads.com/book/show/10436065-mathematics-for-3d-game-programming-and-computer-graphics)
 
 ##### Learning "C#"
 * **Learning C# in English**
@@ -143,8 +145,8 @@ Largely organised by CS Focus Areas
   * [UVa Online Judge solutions to some problems](https://github.com/ksaveljev/UVa-online-judge)
 * **CS4232 Theory of Computation**
   * [1516 Semester 1 Module Website by Frank Stephan](http://www.comp.nus.edu.sg/~fstephan/theoryofcomputation.html)
-  * [Related Stanford course in Coursera](https://www.coursera.org/course/automata)
-  
+  * [Shai Simonson's course playlist](https://www.youtube.com/playlist?list=PL7HjUNIdk93ThXvz2Oa_g30Jt3Owwm4HZ)
+
 ### Artificial Intelligence 
 * **CS3243 Introduction to Artificial Intelligence**
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
@@ -181,6 +183,8 @@ Largely organised by CS Focus Areas
 * **CS6101 Deep Learning for Vision**
   * [The 2017 Course page by Dr Min](http://www.comp.nus.edu.sg/~kanmy/courses/6101_2017/)
   * [Stanford Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+  * [Tensorflow Models Zoo](https://github.com/tensorflow/models/)
+  * [Consice Tensorflow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
 
 ### Computer Networks 
@@ -282,6 +286,7 @@ Largely organised by CS Focus Areas
   * [C++ Coding Conventions by Google](https://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
   * [Design Patterns Explained](http://cdn.preterhuman.net/texts/manuals/Addison%20Wesley%20-%20Design%20Patterns%20Explained%20(2001).pdf)
   * [Begineer's Guide to Design Patterns](http://code.tutsplus.com/articles/a-beginners-guide-to-design-patterns--net-12752)
+  * [The Mythical Man-Month. Essays on Software Engineering](https://is.muni.cz/www/208322/The.Mythical.Man.Month.F.Brooks.pdf)
 * **CS3216 Software Development for Digital Markets**
   * [Official Home Page](http://www.cs3216.com)
   * [On CS3216/CS3217 and Elitism](https://www.facebook.com/notes/ben-leong/on-cs3216cs3217-and-elitism/10153053255577549)
@@ -375,6 +380,7 @@ Largely organised by CS Focus Areas
 * [Algorithms tutorials by Top Coder's Data Science Community](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 * [Lots of Cheatsheets from LifeHacker](http://www.lifehacker.com.au/2016/10/every-programming-cheat-sheet-a-developer-could-ever-want/)
 * [Yang Shun's Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+* [Programming Interviews Exposed](https://github.com/liwei606/interview/blob/master/Programming%20Interviews%20Exposed%203rd.pdf)
 
 #### Google
 * [From a Googler: the Google interview process (**MUST READ**)](https://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
@@ -416,7 +422,7 @@ Largely organised by CS Focus Areas
   * [One whole long pdf of notes](http://www.stat.nus.edu.sg/~staja/st2334/notes_st2334.pdf)
   * [WZChen Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
 * **ST2132 Mathematical Statistics** 
-  * [Textbook: Mathematical Analysis and Statistics by John Rice](ftp://nozdr.ru/biblioteka/kolxo3/M_Mathematics/MV_Probability/MVsa_Statistics%20and%20applications/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3ed.,%20Duxbury,%202006)(ISBN%200534399428)(O)(685s)_MVsa_.pdf)
+  * [Textbook: Mathematical Analysis and Statistics by John Rice](https://gettextbook.download/Stats%20100B/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3rd).pdf)
 * **ST2137 Computer Aided Data Analysis** 
   * [AY2013/2014 Course Webpage](http://www.stat.nus.edu.sg/~zhangjt/teaching/ST2137/ST2137.htm)
 * **ST4234 Bayesian Statistics** 
