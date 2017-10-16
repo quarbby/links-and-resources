@@ -37,7 +37,7 @@ Largely organised by CS Focus Areas
 * [Basic UNIX commands](https://github.com/quarbby/links-and-resources/blob/master/resources/UNIX%20commands.docx)
 * [Resources for Freshman by Mr. Aaron Tan](http://www.comp.nus.edu.sg/~cs1010/4_misc/freshmen.html)
 * [ReadPeer IVLE for reading and organising IVLE notes](http://ivle.readpeer.com)
-* [Foundation Of Computer Science(Online Textbook](http://i.stanford.edu/~ullman/focs.html)
+* [Foundation Of Computer Science(Online Textbook)](http://i.stanford.edu/~ullman/focs.html)
 
 ### Learning to Program
 
@@ -46,6 +46,7 @@ Largely organised by CS Focus Areas
 * [Vogella Github handbook](http://www.vogella.com/tutorials/Git/article.html)
 * [Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial)
 * [MS Dos Basics](http://people.uncw.edu/pattersone/121/labs/L1_MSDOS_Primer.pdf)
+* [Powershell Basics](http://powershelltutorial.net/): It would be a plus if you know C# prior!
 
 ##### Learning C
 * **CS1010 Programming Methodology** 
@@ -341,6 +342,7 @@ Largely organised by CS Focus Areas
 #### Frontend Languages and Frameworks 
 * [List of Front End Feeds](https://github.com/impressivewebs/frontend-feeds)
 * [Front End Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [2017 Angular vs React vs Vue](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
 
 ##### Learning AngularJS and Angular 2
 * [Getting started on AngularJS](https://angularjs.org/)
