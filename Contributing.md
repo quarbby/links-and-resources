@@ -3,8 +3,9 @@
 
 ### How to Contribute
 1. Fork the Repo [here's how](https://help.github.com/articles/fork-a-repo/)
-2. Add in any awesome links you've used for any modules you've taken in School of Computing (CS, IS, CEG) or NUS (Science, Maths, GEK, GEM...)
-Or just any resources you think will be useful for computing students
+2. Now, you can either:
+    1. Add in any awesome links you've used for any modules you've taken in School of Computing (CS, IS, CEG) or NUS (Science, Maths, GEK, GEM...) Or just any resources you think will be useful for computing students
+    2. Remove some outdated/irrelevant links (state your reason in your pull request)
 3. Add your name to the list of contributors below in alphabetical order.
 4. Send us a pull request [here's how](https://help.github.com/articles/using-pull-requests/)!
 
