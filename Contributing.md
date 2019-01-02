@@ -21,6 +21,7 @@ P.S. You may refer to [@phillipadsmith](https://github.com/phillipadsmith)[Aweso
 
 #### Contributors:
 * [@chanjunweimy](https://github.com/chanjunweimy)
+* [@chris](https://github.com/ChrisKheng)
 * [@dexots](https://github.com/dexots)
 * [@jials](https://github.com/jials)
 * [@jjingrong](https://github.com/jjingrong)
