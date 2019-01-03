@@ -411,12 +411,14 @@ Largely organised by CS Focus Areas
 * **MA1521 Calculus for Computing** 
   * [Extra Resources (in Chinese)](https://www.dropbox.com/s/k7sflzv5z67ye29/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B9%8B%E5%80%9A%E5%A4%A9%E5%AE%9D%E5%89%91.pdf?dl=0)
   * [Final Exam Helpsheet, NWS's Syllabus](https://www.dropbox.com/s/ec4dgu7v7grima4/MA1521%20Final%20Exam%20Helpsheet%20v3-public.pdf?dl=0)
-  * [Chris's Final Exam Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/MA1521%20Finalised%20Cheatsheet.pdf)
+  * [Final Exam Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/MA1521%20Finalised%20Cheatsheet.pdf)
 * **MA1101R Linear Algebra I** 
   * Textbook: Linear Algebra: Concepts and Techniques on Euclidean Spaces by Ng Kah Loon. Can only buy at NUS Co-Op
   * [A textbook from UBC that serves its purpose](http://www.math.ubc.ca/~carrell/NB.pdf)
   * [Stanford CS229 Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pdf)
-  * [Chris's Final Exam Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/MA1101R%20Final%20Cheatsheet.docx)
+  * [Final Exam Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/MA1101R%20Final%20Cheatsheet.docx)
+  * [Lab Quiz Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/MA1101R%20Final%20Cheatsheet.docx)
+  
 * **MA2213 Numerical Analysis** 
   * [Numerical Methods in Matlab](http://www.math.ohiou.edu/courses/math3600/book.pdf)
   * [Introduction to Numerical Analysis, MIT OpenCourseWare Spring 2012](http://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2012/)
