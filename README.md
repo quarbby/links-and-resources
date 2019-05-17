@@ -21,7 +21,7 @@ Largely organised by CS Focus Areas
 * [Technical Interviews *and other tips*](README.md#technical-interviews)
 * [Physics and Mathematics](README.md#physics-and-maths), because we all have to take them in our degree requirements
 * [Information Systems Modules](README.md#information-systems-modules)
-* [Other NUS Modules](README.md#others-nus-modules): GEM/ SS modules
+* [Other NUS Modules](README.md#other-nus-modules): GEM/ SS modules
 * [Others](README.md#others): Free Academic Resources, cool coding-related links, and some troubleshoots
 * [Building the list](README.md#building-the-list)
 
