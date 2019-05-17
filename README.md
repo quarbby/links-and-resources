@@ -117,12 +117,17 @@ Largely organised by CS Focus Areas
 ##### Learning other basics for Programme Requirements
 * **CS2100 Computer Organisation** 
   * [AY2014/2015 Website by Aaron Tan](http://www.comp.nus.edu.sg/~cs2100/)
+  * [CS2100 Final Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/CS2100%20Final%20CheatSheet.docx)
+  * [CS2100 Midterm Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/CS2100%20Midterm%20CheatSheet.docx)
+
 * **CS2106 Introduction to Operating Systems**
   * [2011 Course Page by Prof Ooi Wei Tsang](http://blog.nus.edu.sg/cs2106/about/)
   * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 
 ### Algorithms and Theory
+* **CS2040 Data Structures and Algorithms**
+  * [CS2040 Summary Notes](https://github.com/ChrisKheng/Academics/blob/master/CS2040%20Summary.docx)
 * **CS3230 Design and Analysis of Algorithms** 
   * [The 2010 Version](http://www.comp.nus.edu.sg/~sanjay/cs3230.html)
   * [MIT Introduction to Algorithms Book. Also the textbook used in CS3230.](http://syedwaqarahmad.webs.com/documents/t._cormen_-_introduction_to_algorithms_3rd_edition.pdf)
@@ -468,6 +473,8 @@ Largely organised by CS Focus Areas
 * **GEK1521 Physics In the Life Sciences** 
   * [Course from Harveford College](https://www.haverford.edu/physics/Amador/links/IPLSResources.php) 
   * [Course from McGill](http://www.physics.mcgill.ca/~moore/P101/Lectures/)
+* **GET1028 Logic** 
+  * [GET1028 Final Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/GET1028%20Cheatsheet.docx)
 
 #### Singapore Studies modules
 * [SSA2204 Nation Building in Singapore](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!83053&authkey=!AB5w0sZqImAFAq8&ithint=folder%2cpdf)
