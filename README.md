@@ -394,6 +394,7 @@ Largely organised by CS Focus Areas
 * [Long but worthwhile read by beloved Steve Yegge](http://steve-yegge.blogspot.sg/2008/03/get-that-job-at-google.html)
 * ["Hacking a Google Interview" by MIT](http://courses.csail.mit.edu/iap/interview/materials.php)
 * [APAC Google interview experience/process by Emanuel Saringan](http://lambdageek.com/google-interview-experience)
+* [Learn Data Structures from a Google Engineer](https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/)
 
 #### Facebook
 * [Get that job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920)
@@ -512,7 +513,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Stanford Online](http://online.stanford.edu/courses)
 * [Coursera](https://www.coursera.org/)
 * [Programming Books Sandbox](https://github.com/bharathwaaj/sandbox/tree/master/Programming%20books)
-* [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+* [550+ Free Online Programming &amp; Computer Science Courses You Can Start This October](https://www.freecodecamp.org/news/550-free-online-programming-computer-science-courses-you-can-start-this-october/)
 
 #### Top Self-learning Resources
 * [Codecademy](http://www.codecademy.com/)
@@ -523,6 +524,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Code Avengers](https://www.codeavengers.com/)
 * [Treehouse](https://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
+* [FreeCodeCamp](https://www.freecodecamp.org)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 * [Cool Youtube Channels for Learning Programming](https://github.com/epoyraz/Awesome-Youtube-Channels)
