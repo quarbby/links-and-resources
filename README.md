@@ -518,6 +518,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 #### Top Self-learning Resources
 * [Codecademy](http://www.codecademy.com/)
 * [Codeschool](https://www.codeschool.com/)
+* [Exercism](https://www.exercism.io)
 * [Tutorial Spot](http://www.tutorialspoint.com/)
 * [PluralSight (free 90-day trial for students)](http://www.pluralsight.com/)
 * [Thinkster](https://thinkster.io/)
