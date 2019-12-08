@@ -46,6 +46,8 @@ Mathematics and Physics for Programmers |  Danny Kodicek
 Book | Author(s)
 --- | ---
 Gödel, Escher, Bach: An Eternal Golden Braid | Douglas Hofstadter
+Life 3.0: Being Human in the Age of Artificial Intelligence | Max Tegmark
+Valley of Gods | Alexandra Wolfe
 Zero to One: Notes on Startups, or How to Build the Future | Peter Thiel & Blake Masters
 Ethics & Technology: Controversies, Questions, and Strategies for Ethical Computing (4th Edition) | Herman T. Tavani
 Hit Refresh: The Quest to Rediscover Microsoft’s Soul and Imagine a Better Employee            | Satya Nadella 
