@@ -502,6 +502,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Microsoft Visio](https://products.office.com/en-sg/visio/flowchart-software)
 
 #### Great IDEs
+* [JetBrains](https://www.jetbrains.com/products.html) Can get Professional Editions for free with an NUS account
 * [VIM](http://www.vim.org/)
 * [Sublime Text](http://www.sublimetext.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
