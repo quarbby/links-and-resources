@@ -26,6 +26,7 @@ Largely organised by CS Focus Areas
 * [Building the list](README.md#building-the-list)
 
 ### General Resources
+* [Collection of Cheatsheets!!!](https://github.com/indocomsoft/nus-cheatsheets) 
 * [CS Programme Requirements](http://www.comp.nus.edu.sg/undergraduates/cs_cs_2014_15.html)
 * [NUS SoC Focus Areas](https://www.comp.nus.edu.sg/undergraduates/cs_cs_focus.html)
 * [SoC Course Catalogue](https://www.comp.nus.edu.sg/undergraduates/useful_course_schedule.html)
