@@ -531,6 +531,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 * [Cool Youtube Channels for Learning Programming](https://github.com/epoyraz/Awesome-Youtube-Channels)
+* [Scaler Topics](https://www.scaler.com/topics/)
 
 #### Cool Stuff
 * [Awesome Collated List by Sindresorhus](https://github.com/sindresorhus/awesome)
