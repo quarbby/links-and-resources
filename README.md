@@ -64,6 +64,7 @@ Largely organised by CS Focus Areas
     * [Course from UC Santa Cruz](https://www.coursera.org/course/cplusplus4c)
   * **Self-learning C++ website**
     * [learncpp](http://www.learncpp.com/)
+    * [C++ tutorial](https://www.scaler.com/topics/cpp)
   * **C/C++ References**
     * [cppreference](http://www.cplusplus.com/reference/)
   * **CS1020E Unofficial Resources**
