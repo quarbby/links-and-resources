@@ -528,6 +528,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [Treehouse](https://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [FreeCodeCamp](https://www.freecodecamp.org)
+* [Scaler Topics](https://www.scaler.com/topics/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 * [Cool Youtube Channels for Learning Programming](https://github.com/epoyraz/Awesome-Youtube-Channels)
